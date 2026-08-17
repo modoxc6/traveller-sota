@@ -38,8 +38,31 @@ Get-ChildItem $dest -Filter *.md | ForEach-Object {
   [IO.File]::WriteAllText($_.FullName, $text)
 }
 
+# Some notes embed images that live in the shared TTRPG attachments folder one
+# level up rather than in the campaign's own Attachments/. Pull across just the
+# ones actually referenced -- the shared folder also serves other campaigns, and
+# copying it wholesale would publish unrelated material.
+$attach = Join-Path $dest "Attachments"
+$shared = Join-Path $vault "Attachments"
+
+$embeds = Get-ChildItem $dest -Filter *.md | ForEach-Object {
+  [regex]::Matches([IO.File]::ReadAllText($_.FullName), '!\[\[([^\]|#]+)') |
+    ForEach-Object { $_.Groups[1].Value.Trim() }
+} | Where-Object { $_ -match '\.\w{2,4}$' } | Sort-Object -Unique
+
+foreach ($embed in $embeds) {
+  if (Test-Path -LiteralPath (Join-Path $attach $embed)) { continue }
+  $found = Join-Path $shared $embed
+  if (Test-Path -LiteralPath $found) {
+    Copy-Item -LiteralPath $found -Destination $attach
+  } else {
+    Write-Warning "Embedded file not found in either attachments folder: $embed"
+  }
+}
+
 $count = (Get-ChildItem $dest -Filter *.md).Count
-Write-Host "Synced $count notes."
+$imgs  = (Get-ChildItem $attach).Count
+Write-Host "Synced $count notes and $imgs attachments."
 
 git -C $repo add -A
 if (git -C $repo status --porcelain) {
@@ -77,6 +100,9 @@ Get-ChildItem $deploy -Force | Where-Object { $_.Name -ne ".git" } |
 Copy-Item (Join-Path $repo "public\*") $deploy -Recurse
 # Pages runs Jekyll on branch deploys otherwise, which eats some asset paths.
 New-Item -ItemType File -Path (Join-Path $deploy ".nojekyll") -Force | Out-Null
+# Build output is generated, never hand-edited -- don't let git normalise line
+# endings on it, which otherwise warns about every one of the ~250 files.
+Set-Content -Path (Join-Path $deploy ".gitattributes") -Value "* -text" -Encoding utf8
 
 git -C $deploy add -A
 if (git -C $deploy status --porcelain) {
