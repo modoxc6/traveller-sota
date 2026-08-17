@@ -13,9 +13,23 @@ They are not edited here — `content/` is generated. To publish:
 .\sync.ps1
 ```
 
-That copies the notes into `content/`, commits and pushes. Pushing to `main`
-triggers the Actions workflow, which builds with [Quartz](https://quartz.jzhao.xyz)
-and deploys to Pages.
+That copies the notes into `content/`, commits them to `main`, builds the site
+with [Quartz](https://quartz.jzhao.xyz), and force-updates the `gh-pages` branch
+that Pages serves from.
+
+### Why not GitHub Actions?
+
+The local `gh` token has `repo` but not `workflow` scope, so it cannot push a
+file under `.github/workflows/`. The ready-made workflow is parked at
+`.deploy-workflow/deploy.yml`. To switch to CI builds:
+
+```bash
+gh auth refresh -s workflow
+```
+
+then move that file to `.github/workflows/deploy.yml`, push, set the Pages
+source back to "GitHub Actions", and delete the build-and-publish section at the
+bottom of `sync.ps1`.
 
 Deliberately not published:
 
