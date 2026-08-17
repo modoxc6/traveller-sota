@@ -13,7 +13,8 @@ tags:
 Date: 2026-06-07
 ---
 ##### Useful links
-Published to GitHub Pages from the `modoxc6/personal` repo — plain links, no login needed.
+Published to GitHub Pages — plain links, no login needed.
+- [Campaign Wiki](https://modoxc6.github.io/traveller-sota/) — these notes as a searchable public wiki, rebuilt by running `sync.ps1` in `D:\Code\traveller-sota`
 - [Regina Situation Board](https://modoxc6.github.io/personal/regina-situation-board/) — the case board: people, leads and how they connect
 - [Traveller Skills](https://modoxc6.github.io/personal/traveller-skills/) — skill reference sheet
 - [Speculative Trade](https://modoxc6.github.io/personal/traveller-trade-onepager/) — speculative trade one-pager

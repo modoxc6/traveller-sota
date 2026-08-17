@@ -112,3 +112,31 @@ if (git -C $deploy status --porcelain) {
 } else {
   Write-Host "Site output unchanged; nothing to publish."
 }
+
+# --- Stamp the projects hub -------------------------------------------------
+# The hub card carries a "last published" date. Updating it here rather than by
+# hand is the only way it stays honest.
+$hub = "D:\Code\personal"
+$hubIndex = Join-Path $hub "index.html"
+$today = Get-Date -f "dd-MM-yy"
+
+if (Test-Path $hubIndex) {
+  git -C $hub pull -q --ff-only
+  $html = [IO.File]::ReadAllText($hubIndex)
+  $pattern = "(Full notes wiki for the SotA campaign, last published )\d{2}-\d{2}-\d{2}"
+  if ($html -notmatch $pattern) {
+    Write-Warning "Hub card not found in $hubIndex -- date not updated."
+  } else {
+    [IO.File]::WriteAllText($hubIndex, [regex]::Replace($html, $pattern, "`${1}$today"))
+    git -C $hub add index.html
+    if (git -C $hub status --porcelain) {
+      git -C $hub commit -q -m "Stamp SotA wiki publish date $today"
+      git -C $hub push -q
+      Write-Host "Hub card stamped $today."
+    } else {
+      Write-Host "Hub card already stamped $today."
+    }
+  }
+} else {
+  Write-Warning "Projects hub not found at $hub -- skipping date stamp."
+}
