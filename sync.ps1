@@ -56,8 +56,15 @@ if (git -C $repo status --porcelain) {
 # move .deploy-workflow\deploy.yml back to .github\workflows\, push, and set
 # the Pages source back to "GitHub Actions" -- then delete this section.
 
-node "$repo\quartz\bootstrap-cli.mjs" build
-if ($LASTEXITCODE -ne 0) { throw "Quartz build failed." }
+# Quartz resolves its config and content from the current directory, so this
+# has to run with the repo as cwd regardless of where the script was invoked.
+Push-Location $repo
+try {
+  node quartz/bootstrap-cli.mjs build
+  if ($LASTEXITCODE -ne 0) { throw "Quartz build failed." }
+} finally {
+  Pop-Location
+}
 
 $deploy = Join-Path $repo ".deploy"
 if (-not (Test-Path $deploy)) {
