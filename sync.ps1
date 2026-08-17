@@ -45,7 +45,37 @@ git -C $repo add -A
 if (git -C $repo status --porcelain) {
   git -C $repo commit -m "Sync campaign notes $(Get-Date -f yyyy-MM-dd)"
   git -C $repo push
-  Write-Host "Pushed. Site rebuilds at https://modoxc6.github.io/traveller-sota/"
 } else {
-  Write-Host "No changes to publish."
+  Write-Host "Notes unchanged; rebuilding anyway."
+}
+
+# --- Build and publish ------------------------------------------------------
+# The site is served from the gh-pages branch rather than built by Actions,
+# because the local gh token has no `workflow` scope and so can't push a
+# workflow file. To switch to CI builds: run `gh auth refresh -s workflow`,
+# move .deploy-workflow\deploy.yml back to .github\workflows\, push, and set
+# the Pages source back to "GitHub Actions" -- then delete this section.
+
+node "$repo\quartz\bootstrap-cli.mjs" build
+if ($LASTEXITCODE -ne 0) { throw "Quartz build failed." }
+
+$deploy = Join-Path $repo ".deploy"
+if (-not (Test-Path $deploy)) {
+  git -C $repo worktree add -B gh-pages $deploy
+}
+
+# Wipe the worktree (except its git link) so deleted pages don't survive.
+Get-ChildItem $deploy -Force | Where-Object { $_.Name -ne ".git" } |
+  Remove-Item -Recurse -Force
+Copy-Item (Join-Path $repo "public\*") $deploy -Recurse
+# Pages runs Jekyll on branch deploys otherwise, which eats some asset paths.
+New-Item -ItemType File -Path (Join-Path $deploy ".nojekyll") -Force | Out-Null
+
+git -C $deploy add -A
+if (git -C $deploy status --porcelain) {
+  git -C $deploy commit -q -m "Build $(Get-Date -f 'yyyy-MM-dd HH:mm')"
+  git -C $deploy push -q origin gh-pages
+  Write-Host "Published: https://modoxc6.github.io/traveller-sota/"
+} else {
+  Write-Host "Site output unchanged; nothing to publish."
 }
