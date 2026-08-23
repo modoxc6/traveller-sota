@@ -32,5 +32,16 @@ If Odoy is right, the courier theory would explain Vlen's constant travel and hi
 - What the connection to Vlen actually is — creditor, rival, employer, killer?
 - Whether "he" is right: Ujinka uses it, but nobody has ever seen the man
 
+###### From inside Winter Shipping â€” 196-1105
+[[Exceedingly Discreet]], the [[Llellewyoly]] who keeps [[Winter Shipping]]'s real records, spoke about Yasha freely on some points and refused others outright. All unverified:
+
+- **Yasha hired the whole Winter Shipping operation**, [[Harlen]] included. The company is his
+- **Yasha ordered [[Iaros Ujinka]]'s death.** Exceedingly Discreet does not understand why, and says so â€” greater understanding of Ancient technology would only raise the value of Ancient artefacts. It does not question his requests
+- **[[Vlen Backett]] was a messenger for Yasha** â€” "he must have brought bad news, hence his demise". This is a second, independent version of [[Detective Odoy]]'s courier claim
+- On what Yasha wants from [[The Ancients|Ancient]] technology: nobody understands the secrets of the Ancients, but the potential runs to immortality, taking systems, taking the [[Imperium]], destroying armies. Exceedingly Discreet knows of **no specific plan**
+- **It will not discuss Yasha himself** â€” information about Harlen, the hired thugs and Imperial Intelligence is on offer; Yasha is "very much off the cards", for its own survival. Going against him is "a very bad idea"
+
+Three sources now attach Yasha to the case â€” the [[Dancado]] prisoner, [[Detective Odoy]], and now his own organisation.
+
 ###### Notes
 -

@@ -13,16 +13,13 @@ tags:
 Date: 2026-06-07
 ---
 ##### Useful links
-Published to GitHub Pages — plain links, no login needed.
-- [Campaign Wiki](https://modoxc6.github.io/traveller-sota/) — these notes as a searchable public wiki, rebuilt by running `sync.ps1` in `D:\Code\traveller-sota`
 - [Regina Situation Board](https://modoxc6.github.io/personal/regina-situation-board/) — the case board: people, leads and how they connect
 - [Traveller Skills](https://modoxc6.github.io/personal/traveller-skills/) — skill reference sheet
 - [Speculative Trade](https://modoxc6.github.io/personal/traveller-trade-onepager/) — speculative trade one-pager
-- [Roll or Die](https://modoxc6.github.io/sci-fi-dice-roller/) — sci-fi dice roller
-- [Projects hub](https://modoxc6.github.io/personal/) — index of all of the above
-
+- [[Investigation Status]] — running timeline and open threads for [[Vlen Backett's Murder]] 
 ##### Index
 ###### Sessions
+- [[Session 2026-08-23]] — Winter Shipping broken into; a Llellewyoly runs the records and trades passage to the orbital station for Harlen's death
 - [[Session 2026-08-16]] — Winter Shipping recced and hacked; Odoy names Ven Yasha as Vlen's killer and Harlen as the redhead
 - [[Session 2026-08-02]] — Ujinka lost; Pallod names Jak; Alahir and Winter Shipping leads uncovered
 
@@ -37,13 +34,14 @@ Published to GitHub Pages — plain links, no login needed.
 - [[Countess Parasii]] — ruler of Uakye; no connection to the investigation
 - [[Darrian Jak]] — short red-haired Tusal dealer in POC custody; the crew think he's a fall guy for being red-haired
 - [[Detective Odoy]] — met the party at the Flotsam; says Ven Yasha killed Vlen and the spy story is a cover
-- [[Harlen]] — red-haired fixer connected to Winter Shipping; the crew think he, not Jak, is the third man
+- [[Exceedingly Discreet]] — Llellewyoly running Winter Shipping's records; wants Harlen dead and the company for itself
+- [[Harlen]] — red-haired fixer who runs Winter Shipping for Ven Yasha; aboard the orbital station, holds Vlen's statuette
 - [[Marid]] — receptionist at Winter Shipping's Star Town office
 - [[Olso]] — the crew's Winter Shipping contact; collecting their Yori cargo
 - [[Pallod Norrim]] — Chief Inspector; named Jak as Vlen's killer, now refuses the crew's calls
 - [[Iaros Ujinka]] — history professor at Dancado, StClair's mentor; **murdered** mid-meeting with the party
 - [[Vlen Backett]] — "Uncle Vlen", restless family rogue with an improbable address book (ally, **murdered**)
-- [[Ven Yasha]] — unseen crime lord wanted around Regina; Odoy says he killed Vlen and the Imperials are hunting him (rival)
+- [[Ven Yasha]] — unseen crime lord wanted around Regina; owns Winter Shipping, ordered Ujinka's death (rival)
 - [[Zena Antonia]] — receptionist at the Regina Down TAS Hostel; flirting with Kostas
 
 ###### Locations
@@ -70,12 +68,13 @@ Published to GitHub Pages — plain links, no login needed.
 - [[Startown]] — the downport strip; violent, corrupt and profitable
 - [[The Flotsam]] — bar; venue for Odoy's 195-1105 meeting
 - [[Uakye]] — tidally locked; Countess Parasii resents Efate
+- [[Winter Shipping Station]] — Winter Shipping's station in orbit; where Harlen is and where the long launch runs go
 - [[Wochiers]] — four-bar atmosphere, crystal growing, bring a plant
 - [[Yori]] — where the party travelled from, leaving 185-1105
 - [[Yres]] — balkanised undersea world, radioactive atmosphere
 
 ###### Ships
-- [[Alahir]] — non-standard Scout Service-registered ship whose captain repeatedly met Pallod
+- [[Alahir]] — non-standard Scout Service-registered ship that carried Imperial Intelligence to Regina; has departed
 - [[Event Horizon]] — the party's ship, a Lab Ship
 - [[Implacable]] — Pinnace carried by the Event Horizon
 
@@ -90,7 +89,7 @@ Published to GitHub Pages — plain links, no login needed.
 - [[Regina Public Order Commission]] — Regina's civil authority; holding Vlen's estate and his body
 - [[Travellers' Aid Society]] — TAS; Vlen stayed at their hostel, their camera caught the three men
 - [[University of Regina]] — Ujinka's Department of History
-- [[Winter Shipping]] — logistics and cargo-buying company; Vlen's last call, Harlen's employer, two buildings straddling the fence
+- [[Winter Shipping]] — logistics and cargo-buying company; Vlen's last call, Harlen's employer, two buildings straddling the fence, owned by Ven Yasha
 
 ###### Laws
 - [[Assumption of Custody]] — the POC can hold suspects a month without trial; Travellers are swept routinely
@@ -113,6 +112,7 @@ Published to GitHub Pages — plain links, no login needed.
 ###### Items
 - [[Smashed Comms]] — yielded Winter Shipping as Vlen's last call before becoming unusable
 - [[Tusal]] — illegal seaweed-derived narcotic; Vlen was full of it when he was shot
+- [[Vlen's Statuette and Data Crystals]] — Vlen's property, said to be in Harlen's hands
 
 ###### Clues
 - [[Ancients Extinction Theories]] — competing accounts of how the Ancients vanished

@@ -4,7 +4,7 @@
 Running state of the investigation into [[Vlen Backett's Murder]], from the GM's board.
 
 ###### Timeline
-**Current date: 195-1105, late — the meeting with Odoy has happened.**
+**Current date: 196-1105, small hours — the crew are inside Winter Shipping's Credo-side office, deal struck.**
 
 | Date | Event |
 |---|---|
@@ -15,19 +15,33 @@ Running state of the investigation into [[Vlen Backett's Murder]], from the GM's
 | **193-1105** | **The party arrive at Regina** |
 | **195-1105** | Winter Shipping reconnoitred and hacked; cargo sold to them as cover; Pallod stops taking calls |
 | **195-1105** | **[[Meeting at the Flotsam]], 10pm — happened.** Odoy names [[Ven Yasha]] as the killer |
+| **195-1105**, night | Break-in at [[Winter Shipping]]'s Credo-side office. [[Exceedingly Discreet]] found; the tunnel between the buildings confirmed |
+| **196-1105**, small hours | Deal struck with [[Exceedingly Discreet]]: passage to the [[Winter Shipping Station]] in exchange for [[Harlen]]'s death |
+| — | The [[Alahir]] has **departed** Regina, date not given |
 
 The dates put the party's departure from [[Yori]] five days *before* the death notice was sent, but the party's understanding is that they left **because of** the notice. Most likely a slip in the GM's dates rather than something in the fiction — treated as such unless it comes up in play.
 
 ###### What the party are concentrating on
 - **Security footage** — ✅ obtained and viewed. [[Three Men at Vlen's Room]]
 - **[[Meeting at the Flotsam]]** — ✅ happened. [[Detective Odoy]]'s account is now the counter-theory to the POC's
-- **[[Winter Shipping]]** — reconnoitred and hacked; the crew intend to **break in** next
-- **[[Darrian Jak]]** — the crew are fairly confident he is a **fall guy**, arrested only for being red-haired; they intend to meet him in prison
-- **[[Harlen]]** — Odoy's red-haired fixer, linked to Winter Shipping. The crew's theory is that Harlen, not Jak, is the real third man
+- **[[Winter Shipping]]** — ✅ broken into 195-1105. The empty server is explained: the real records are a [[Llellewyoly]], [[Exceedingly Discreet]], on a closed system
+- **[[Darrian Jak]]** — the crew are fairly confident he is a **fall guy**, arrested only for being red-haired. The prison visit has slipped behind the station raid
+- **[[Harlen]]** — confirmed from inside the company as **running [[Winter Shipping]]** for [[Ven Yasha]], and aboard the [[Winter Shipping Station]]. He holds [[Vlen's Statuette and Data Crystals]]. The crew have promised to kill him
 - **What is this device that was used?** — [[The Device]], still unidentified
-- **[[Alahir]]** — Odoy says it carries the Imperial force hunting [[Ven Yasha]]
+- **[[Alahir]]** — **has left Regina.** Its Imperial Intelligence contingent's business is reportedly concluded
 
-###### Where the party are now — end of session, 195-1105
+###### Where the party are now — end of session, 196-1105
+**Inside [[Winter Shipping]]'s closed Credo-side office in the small hours of 196-1105, having struck a deal with [[Exceedingly Discreet]].**
+
+- The company's real records are a **[[Llellewyoly]] on a closed system** — unhackable, but talkative. It calls itself the brains of the operation
+- **[[Harlen]] runs Winter Shipping and [[Ven Yasha]] owns it.** Exceedingly Discreet wants Harlen gone and the company for itself
+- **The deal:** the crew get the company launch and passage to the [[Winter Shipping Station]] in orbit, flight path set by Exceedingly Discreet, [[Marid]] none the wiser; in return **Harlen dies** and the conversation never happened
+- The launch is to **rendezvous with the [[Event Horizon]]** in orbit so the crew can arm — they have no weapons beyond [[Graxius StClair|StClair]]'s plastic knife, and [[Regina]] is Law Level 9
+- **[[Ven Yasha]] ordered [[Iaros Ujinka]]'s death** (per Exceedingly Discreet, who cannot explain why), and **[[Vlen Backett]] was Yasha's messenger** who "brought bad news"
+- **[[Harlen]] holds [[Vlen's Statuette and Data Crystals]]**
+- Everything above is Exceedingly Discreet's word. It refuses to discuss [[Ven Yasha]] himself at all
+
+###### Superseded — where the party were at the end of 195-1105
 **At [[The Flotsam]], late on 195-1105, having just heard out [[Detective Odoy]].**
 
 - Two irreconcilable accounts of [[Vlen Backett's Murder]] are now on the table. The POC's: [[Darrian Jak]] did it, case closed. Odoy's: [[Ven Yasha]] did it, Vlen was his courier, and the Imperials are here for Yasha. **Neither is verified**
@@ -39,9 +53,11 @@ The dates put the party's departure from [[Yori]] five days *before* the death n
 - [[Kostas Backett]] remains badly injured at STR 3, DEX 9 and END 1
 
 ###### Current actions
-- **Break into [[Winter Shipping]]** — the unnetworked system, the passage between the buildings, the launch records
-- **Find out more about the [[Alahir]]** — its captain, its crew, the Imperial force aboard
-- **Meet [[Darrian Jak]] in prison** — test Pallod's case, settle whether Jak is [[Harlen]]
+- **Arm the crew** — rendezvous with the [[Event Horizon]] in orbit before boarding
+- **Take the launch to the [[Winter Shipping Station]]** — the staff aboard, and [[Harlen]]
+- **Recover [[Vlen's Statuette and Data Crystals]]** from Harlen
+- **Decide how far to honour the deal** with [[Exceedingly Discreet]]
+- Still open, deprioritised: **meet [[Darrian Jak]] in prison** to test Pallod's case
 
 Both people who knew what [[Ujinka's Research]] was about are now dead — [[Vlen Backett]] on or before 190, Ujinka today. The party are the only ones left who were told, and they were in the room when it happened.
 
@@ -62,6 +78,9 @@ Before her death, Ujinka asked the party to put the [[Event Horizon]] behind [[U
 - **The receptionist on duty the night of the murder** — traced and spoken to. He had nothing useful. Not [[Zena Antonia]], who works the same desk on other shifts. Thread closed.
 
 ###### Loose threads not on the party's list
+- **The tunnel** between the two Winter Shipping buildings — an unexplained newer pipe with vents at equal intervals runs its length, and the Star Town ramp is closed with no mechanism on the tunnel side
+- **Is [[Exceedingly Discreet]] playing the crew** into removing [[Harlen]] for it, or into a fight it expects them to lose?
+- **The [[Alahir]]'s captain** — heard as "Gand Hulses", spelling unconfirmed; said to hold a special portfolio in Imperial Intelligence
 - **[[Detective Odoy]] himself** — which agency he serves and **what he wants from the crew**. He arranged the meeting; everything the crew now believe about Yasha rests on his unverified word
 - [[Being Followed]] — the departing grav car appeared to be POC, but local officers denied another unit was present; offworlders have reportedly operated in POC uniforms since the Alahir arrived
 - **Is [[Pallod Norrim]] bought, coerced, or sidelined?** He is now unreachable, and his case contradicts Odoy's at every point

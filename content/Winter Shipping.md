@@ -35,6 +35,23 @@ On 195-1105 the crew sold their [[Yori]] cargo — 3 tons of crystals and gems, 
 - What the second system holds, and what the overlong launch runs are doing
 - What [[Harlen]] does here, and whether the company is [[Ven Yasha]]'s
 
+###### Inside the Credo-side building â€” 196-1105
+The crew broke in after dark. [[Kostas Backett|Kostas]] disabled the alarms and let the others in through a side access.
+
+- The building is mostly dark and empty â€” crate tables, and one lit room in the far corner
+- That room holds a **sealed environmental chamber** containing a [[Llellewyoly]], **[[Exceedingly Discreet]]**, working an enormous volume of data on a **closed system with no external route in**. It calls itself the brains of the operation. This explains the near-empty server Ozy hacked
+- The **passage between the two buildings is real**: an unconcealed ramp down into a **tunnel** running towards the [[Startown|Star Town]] side. The far end has a ramp up that is **closed, with no mechanism visible from the tunnel**
+- Along the tunnel runs a **newer pipe with vents at equal intervals** â€” purpose unexplained
+- A storeroom off the tunnel holds empty gin bottles and crates of **food not fit for human consumption** â€” presumably Exceedingly Discreet's. [[Graxius StClair|StClair]] ate some and was sick
+
+###### The company, from the inside â€” 196-1105
+All from [[Exceedingly Discreet]], unverified:
+
+- **[[Harlen]] runs Winter Shipping** â€” "short-sighted and a poor tactician", but loyal
+- **[[Ven Yasha]] hired them all.** The company is Yasha's
+- There is a **[[Winter Shipping Station|company station in orbit]]**, where Harlen is â€” almost certainly the destination of the overlong launch runs
+- Exceedingly Discreet controls the launch's flight path from its console, and has agreed to fly the crew up in exchange for Harlen's death. [[Marid]] is to know nothing about it
+
 ###### Notes
 - The crew intend to investigate Winter Shipping before meeting [[Detective Odoy]] at [[The Flotsam]].
 - After the Odoy meeting, the crew decided to **break in** — targets being the unnetworked system, the passage between the buildings, and the launch records.

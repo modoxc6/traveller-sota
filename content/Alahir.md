@@ -22,5 +22,13 @@ Unverified, but it is consistent with the reported offworlders in [[Regina Publi
 - Why its captain has been meeting Pallod
 - Whether its personnel were involved at [[Dancado]] or used the grav car seen leaving the scene
 
+###### Departed â€” 196-1105
+[[Exceedingly Discreet]] told the crew that **Imperial Intelligence were on [[Regina]] in numbers**, that they **arrived aboard the Alahir**, and that the ship has **since departed** â€” whatever their business was, it is concluded.
+
+- The captain's name was heard at the table as **"Gand Hulses"** â€” *spelling unconfirmed, check with the GM* â€” and he is said to hold **some special portfolio within the intelligence services**
+- Exceedingly Discreet does **not** know whether they came for [[Ven Yasha]] or for something else, which leaves [[Detective Odoy]]'s claim unconfirmed rather than contradicted
+
+If the ship is gone, the crew's plan to investigate it on Regina is dead, and the departure itself is a data point: the Imperial interest in this case may have finished before the crew got near it.
+
 ###### Notes
 -

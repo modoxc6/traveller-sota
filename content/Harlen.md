@@ -18,5 +18,16 @@ Named by [[Detective Odoy]] at the [[Meeting at the Flotsam]] on 195-1105 as the
 - Whether he was the third man at [[Vlen Backett|Vlen]]'s room, or at [[Dancado]]
 - Where he is now
 
+###### From inside the company â€” 196-1105
+[[Exceedingly Discreet]], the [[Llellewyoly]] running [[Winter Shipping]]'s records, told the crew that **Harlen runs the company** and that **[[Ven Yasha]] hired them all**. Unverified, but it is the first account of Harlen from inside Winter Shipping rather than from [[Detective Odoy]].
+
+Per Exceedingly Discreet:
+- Harlen is **short-sighted and a poor tactician**, but **loyal to [[Ven Yasha]]** and will not be turned against him
+- He has no particular weakness â€” "he is just a man, though"
+- **He is aboard the [[Winter Shipping Station]]** in orbit
+- **He holds [[Vlen's Statuette and Data Crystals]]**
+
+Exceedingly Discreet wants Harlen dead and the company for itself, and has made that the price of flying the crew up to the station. **The crew have agreed to kill him.**
+
 ###### Notes
 -

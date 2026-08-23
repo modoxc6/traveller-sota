@@ -38,5 +38,10 @@ This is the lead that sent the party to Dancado.
 - How much she knew about where Vlen's money came from
 - Why [[Ven Yasha]]'s name attaches to Vlen at all
 
+###### Who ordered it â€” 196-1105
+[[Exceedingly Discreet]] says **[[Ven Yasha]] ordered Ujinka's death**. Unverified, but it comes from inside Yasha's own organisation and is the first account of her murder from anyone â€” [[Detective Odoy]] had none.
+
+The same source finds it **inexplicable**: better understanding of Ancient technology would only raise the value of Ancient artefacts, so killing the academic studying it makes no commercial sense. The crew speculated she may have intended to keep the technology out of the wrong hands, or use it herself â€” speculation only.
+
 ###### Notes
 - Ozy recovered unspecified data from her house concerning her research, Vlen and the g-band work.

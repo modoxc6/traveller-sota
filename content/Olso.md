@@ -7,5 +7,7 @@ Olso is **collecting the crew's cargo** — the 3 tons of crystals and gems brou
 
 Nothing else established: role, seniority, or any connection to [[Harlen]] or [[Ven Yasha]].
 
+As with [[Marid]], Olso is on the legitimate side of the business and appears to know nothing of [[Exceedingly Discreet]] or the crew's arrangement with it.
+
 ###### Notes
 -

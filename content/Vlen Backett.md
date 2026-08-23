@@ -50,5 +50,10 @@ All unverified. It would, though, account for a man with no visible job, constan
 
 Unresolved: whether courier work and the funding of [[Ujinka's Research]] are the same thread or two separate lives.
 
+###### Corroboration from inside Winter Shipping â€” 196-1105
+[[Exceedingly Discreet]] independently described Vlen as **a messenger for [[Ven Yasha]]** â€” "he must have brought bad news, hence his demise". That is a second source for the courier theory above, and the first to give a motive for the killing, however offhand.
+
+It also says **[[Harlen]] holds [[Vlen's Statuette and Data Crystals]]** â€” property of Vlen's that never reached the [[Regina Public Order Commission|POC]]-held estate.
+
 ###### Notes
 -
