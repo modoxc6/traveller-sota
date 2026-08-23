@@ -2,7 +2,7 @@
 # Copy the Secrets of the Ancients campaign notes out of the Obsidian vault into
 # content/, then commit and push. Pushing triggers the Pages build.
 #
-# Excluded deliberately: Rulebook/ (copyrighted), CLAUDE.md (agent instructions,
+# Excluded deliberately: Rulebook/ (copyrighted), CLAUDE.md / AGENTS.md (agent instructions,
 # not campaign content), Regina Situation Board.html (already published from the
 # `personal` repo -- linked, not duplicated).
 
@@ -22,7 +22,7 @@ if (Test-Path $dest) { Remove-Item $dest -Recurse -Force }
 New-Item -ItemType Directory -Path $dest | Out-Null
 
 Get-ChildItem $src -Filter *.md |
-  Where-Object { $_.Name -ne "CLAUDE.md" } |
+  Where-Object { $_.Name -ne "CLAUDE.md" -and $_.Name -ne "AGENTS.md" } |
   Copy-Item -Destination $dest
 
 Copy-Item (Join-Path $src "Attachments") $dest -Recurse
