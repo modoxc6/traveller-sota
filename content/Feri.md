@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 **A civil war is underway.** The world carries a provisional **Amber** classification.
 

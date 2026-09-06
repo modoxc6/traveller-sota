@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 The [[Travellers' Aid Society]] hostel in [[Credo City]] where [[Vlen Backett]] was staying, and where he was murdered.
 

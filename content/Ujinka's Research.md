@@ -1,5 +1,5 @@
 #traveller #sota #clue
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 [[Iaros Ujinka]] was investigating **links between [[G-Band Transmissions]] and sites of [[The Ancients|Ancient technology]]**. That's what took her to [[Beck's World]], and it is what she and [[Vlen Backett]] were going to discuss.
 

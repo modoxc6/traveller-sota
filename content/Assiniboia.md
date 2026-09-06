@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 The gas giant that [[Regina]] orbits — Regina being technically a moon, not a planet. Assiniboia in turn orbits the locus of the primary star Lusor and its companion Speck; a third star, a red dwarf, runs a long eccentric orbit.
 

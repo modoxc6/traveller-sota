@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 Where [[Vlen Backett]] travelled from before arriving on [[Regina]], three days before his death.
 

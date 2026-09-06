@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 Tidally locked, so all settlements sit in the habitable 'twilight zone'.
 

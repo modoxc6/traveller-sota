@@ -1,5 +1,5 @@
 #traveller #sota #npc #ally
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 **Ally. Murdered.** "Uncle Vlen" — [[Kostas Backett]]'s extended family. Homeworld [[Alell]].
 

@@ -1,5 +1,5 @@
 #traveller #sota #npc
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 Person of interest on the investigation board, alongside [[Pallod Norrim]].
 

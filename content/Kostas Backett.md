@@ -1,5 +1,5 @@
 #traveller #sota #character
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 ##### Kostas Backett
 38 years old. Ex-Navy (Flight), Petty Officer 3rd class — busted out after backing [[Tyrus Cassius]]'s failed mutiny. Burn scars across his upper body from a cryo accident, a cheap prosthetic arm from a boarding action gone wrong, and a glass eye bought with borrowed money. Low SOC, no connections, and just enough skills to be useful on someone else's ship.
@@ -7,7 +7,22 @@
 ###### Characteristics
 STR 7 · DEX 10 · END 7 · INT 9 (+1 from mustering out) · EDU 8 · SOC 2
 
-###### Current condition — [[Regina]], before the Odoy meeting
+###### Current condition — 196-1105, after the raid on the [[Winter Shipping Station]]
+**STR 1 · DEX 2 · END 1.** All three physical characteristics damaged, which means **surgery** — a hospital or sickbay, not first aid — and he **cannot heal on rest**: a Traveller needing surgery regains only their END DM per day, and his END DM is negative. The [[Event Horizon]]'s sickbay is the fix.
+
+|     | Was | Now   |
+| --- | --- | ----- |
+| STR | 7   | **1** |
+| DEX | 10  | **2** |
+| END | 7   | **1** |
+
+Shot for 3 through his flak jacket (Protection 5) by a man who burst through a door on the base's upper level, which took END to 0 and started eating STR, then hit again shortly after.
+
+**His own first aid failed.** With no doctor in reach he used [[Graxius StClair|StClair]]'s medikit (TL10, DM+1) on himself and rolled **Effect −4**. The rules define no consequence for a failed first aid, so the GM homeruled it: **no characteristics regained, no further damage, medikit spent.** [[Gunner Gunnerson]] later broke off mid-firefight to bandage him for **1 point** of END, and finally dragged him bodily to the escape capsules.
+
+He was the one who held the escape capsule open for the others, and he wanted [[Harlen]] taken alive rather than shot — "shoot him in the legs, Gunner" — on the reasoning that Harlen wouldn't blow a station he was still standing on. Harlen ran before anyone could try.
+
+###### Previous condition — [[Regina]], before the Odoy meeting
 **Hit for 11 damage** (attack roll 12, Effect 2) during the attack at Dancado. Overflow taken on STR to protect DEX. He spent the rest of the fight hidden while the others stopped the two intruders — one killed, the other unconscious — with END 0 and STR 3 there was nothing else to do.
 
 With the attack over but the sniper possibly still outside, Kostas and [[Graxius StClair|StClair]] entered the exposed lounge to retrieve [[Iaros Ujinka]]. As they entered, they saw a grav car flying away and thought it bore [[Regina Public Order Commission|POC]] colours, though they could not confirm it.

@@ -1,5 +1,5 @@
 #traveller #sota #npc
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 Chief Inspector of the [[Regina Public Order Commission]].
 

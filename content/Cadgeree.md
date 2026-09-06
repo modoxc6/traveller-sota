@@ -1,5 +1,5 @@
 #traveller #sota #species
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 *An animal, not a sophont.*
 

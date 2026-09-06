@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 A forested region north of [[Credo City]], on [[Regina]] — **private property of the Duke of Regina**. Home of [[Iaros Ujinka]].
 

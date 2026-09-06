@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 Atmospheric pressure at sea level is **more than four bars**, so the population lives in the mountains or in underground complexes.
 

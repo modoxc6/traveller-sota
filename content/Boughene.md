@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 A scout base is established here as part of continued surveying operations coreward and spinward of the [[Imperium]].
 

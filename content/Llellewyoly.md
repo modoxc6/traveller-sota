@@ -1,5 +1,5 @@
 #traveller #sota #species
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 A minor race native to Junidy in the Aramis subsector of the [[Spinward Marches]]. Nicknamed **'Dandelions'** or **'Dandies'**.
 

@@ -1,5 +1,5 @@
 #traveller #sota #npc
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 > [!danger] Dead
 > **Shot through a window at [[Dancado]] during her meeting with the party, and killed.** Shooter unseen. The attack cut the power and destroyed the house's security drone.

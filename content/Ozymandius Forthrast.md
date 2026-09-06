@@ -1,5 +1,5 @@
 #traveller #sota #character
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 Player character. Crew of the [[Event Horizon]].
 

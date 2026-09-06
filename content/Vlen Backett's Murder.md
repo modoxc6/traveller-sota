@@ -1,5 +1,5 @@
 #traveller #sota #clue
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 [[Vlen Backett]] was murdered in [[Credo City]]. From the coroner's report:
 

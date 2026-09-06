@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 The only surface structure is the entrance to the starport — an extremely impressive system of airlocks and tubes reaching from the surface to the seabed. The cities of this **balkanised** world are all underground and underwater.
 

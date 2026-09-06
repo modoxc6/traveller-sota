@@ -1,5 +1,5 @@
 #traveller #sota #item
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 An **illegal narcotic**, usually sold as tablets, though some prefer it in its less processed, undried form as a wad to be chewed. Derived from a seaweed.
 

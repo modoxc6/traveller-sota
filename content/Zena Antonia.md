@@ -1,5 +1,5 @@
 #traveller #sota #npc
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 Receptionist at the [[Regina Down TAS Hostel]] — where [[Vlen Backett]] was staying when he was killed, and where the party are now staying themselves.
 

@@ -1,5 +1,5 @@
 #traveller #sota #clue
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 [[Detective Odoy]] met the party at [[The Flotsam]] at **10pm on 195-1105**. **The meeting happened** — see [[Detective Odoy]] for the full account he gave.
 

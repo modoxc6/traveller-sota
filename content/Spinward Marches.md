@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 Sector containing the [[Regina]] subsector, and within it [[Alell]].
 

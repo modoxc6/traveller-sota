@@ -1,5 +1,5 @@
 #traveller #sota #ship
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 The party's ship. A **Lab Ship**. Owned by [[Graxius StClair]] — the other characters' Ship Shares, [[Kostas Backett]]'s among them, contributed a little towards her.
 

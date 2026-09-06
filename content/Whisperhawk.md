@@ -1,5 +1,5 @@
 #traveller #sota #species
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 *An animal.* One of the most common sights in the [[Alell]] jungle — beautiful avians with prodigious wingspans.
 

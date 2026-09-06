@@ -1,5 +1,5 @@
 #traveller #sota #clue
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 [[Ozymandius Forthrast]] keeps getting the feeling the party is being followed — and he's right. A **[[Regina Public Order Commission]] grav car** tailed them on the way to meet [[Iaros Ujinka]] at [[Dancado]].
 

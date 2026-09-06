@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 City on [[Regina]], the other half of the pair with [[Credo City]]. [[Startown]] lies between them and is technically divided between the two — each blames the other for the state of it.
 

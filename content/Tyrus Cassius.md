@@ -1,5 +1,5 @@
 #traveller #sota #character
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 **Admiral Tyrus Cassius** — player character. Owns the Pinnace [[Implacable]], carried by the [[Event Horizon]].
 

@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 Where the party were before this. They left on **185-1105** and arrived at [[Regina]] on 193-1105.
 

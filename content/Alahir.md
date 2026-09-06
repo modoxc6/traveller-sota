@@ -1,5 +1,5 @@
 #traveller #sota #ship
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 A ship that reportedly arrived at [[Regina Highport]] several weeks before the party's investigation.
 

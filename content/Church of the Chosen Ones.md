@@ -1,5 +1,5 @@
 #traveller #sota #faction
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 A [[Vargr]] religious sect who believe **Vargr are the chosen heirs of [[The Ancients]]**, and therefore the rightful rulers of the galaxy.
 

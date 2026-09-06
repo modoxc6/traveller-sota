@@ -1,5 +1,5 @@
 #traveller #sota #law
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 Under [[Regina]] law, the [[Regina Public Order Commission]] has the power to **detain suspects for up to a month without trial**.
 

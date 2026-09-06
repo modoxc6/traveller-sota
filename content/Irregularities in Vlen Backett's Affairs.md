@@ -1,5 +1,5 @@
 #traveller #sota #clue
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 From *Handout 2*, [[Pallod Norrim]]'s death notification:
 

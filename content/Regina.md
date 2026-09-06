@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 Capital of the Regina subsector of the [[Spinward Marches]], and **seat of the Duchy of Regina** — one of the most important worlds in the sector. A bulwark against [[Zhodani]] aggression and the largest trade hub in the Marches. Vessels travelling the Spinward Main from the Core worlds offload their cargoes here, leaving smaller local traders to carry goods on to lesser systems.
 

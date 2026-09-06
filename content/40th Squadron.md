@@ -1,5 +1,5 @@
 #traveller #sota #faction
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 One of the best-organised [[Vargr]] bands in [[Gvurrdon]].
 

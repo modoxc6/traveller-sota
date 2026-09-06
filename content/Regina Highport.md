@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 **Class A starport**, one of the largest in the entire [[Spinward Marches]]. It sees more traffic in a day than some lesser systems see in a decade.
 

@@ -1,5 +1,5 @@
 #traveller #sota #faction
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 A private corporation with two main branches:
 

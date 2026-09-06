@@ -1,5 +1,5 @@
 #traveller #sota #faction
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 The setting's dominant polity — formally the **Third Imperium**. Official documents are dated by its regnal year: *Handout 2* is sealed "190 Standard, in the 1105th year of the Third Imperium".
 

@@ -1,5 +1,5 @@
 #traveller #sota #npc
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 A **[[Llellewyoly]]** — a "Dandelion" — found working alone in a sealed environmental chamber in [[Winter Shipping]]'s closed [[Credo City|Credo]]-side building, in the small hours of 196-1105.
 

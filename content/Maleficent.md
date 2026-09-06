@@ -1,5 +1,5 @@
 #traveller #sota #species #clue
-[[index|Traveller Secrets of the Ancients]]
+[[Secrets of the Ancients]]
 
 *An animal.* Infamous and mysterious predators of the [[Alell]] jungles — fast and brutal.
 
