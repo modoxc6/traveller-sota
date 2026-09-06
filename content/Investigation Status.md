@@ -17,9 +17,9 @@ Running state of the investigation into [[Vlen Backett's Murder]], from the GM's
 | **195-1105** | **[[Meeting at the Flotsam]], 10pm — happened.** Odoy names [[Ven Yasha]] as the killer |
 | **195-1105**, night | Break-in at [[Winter Shipping]]'s Credo-side office. [[Exceedingly Discreet]] found; the tunnel between the buildings confirmed |
 | **196-1105**, small hours | Deal struck with [[Exceedingly Discreet]]: passage to the base in exchange for [[Harlen]]'s death |
-| **196-1105** | Launch rendezvous with the [[Event Horizon]]; crew armed; [[Gunner Gunnerson]] joins, [[Graxius StClair|StClair]] drops out |
-| **196-1105** | **[[Winter Shipping Station|The hidden base]] boarded and cleared.** Seven-plus staff killed |
-| **196-1105** | **[[Harlen]] triggers the self-destruct by closing his eyes.** [[Vlen's Statuette and Data Crystals|Statuette and data disks]] taken off his desk |
+| **196-1105** | Launch rendezvous with the [[Event Horizon]]; crew armed; [[Gunner Gunnerson]] joins, [[Graxius StClair]] drops out |
+| **196-1105** | **The hidden base ([[Winter Shipping Station]]) boarded and cleared.** Seven-plus staff killed |
+| **196-1105** | **[[Harlen]] triggers the self-destruct by closing his eyes.** [[Vlen's Statuette and Data Crystals]] taken off his desk |
 | **196-1105** | **The base is destroyed.** The crew escape by capsule and land outside the Twin Cities |
 | — | The [[Alahir]] has **departed** Regina, date not given |
 
