@@ -1,5 +1,5 @@
 #traveller #sota #faction
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 Bank on [[Regina]]. Holds a sum deposited to cover [[Kostas Backett]]'s expenses in dealing with [[Vlen Backett]]'s estate.
 

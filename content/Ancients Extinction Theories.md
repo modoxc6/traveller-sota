@@ -1,5 +1,5 @@
 #traveller #sota #clue
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 [[The Ancients]] vanished abruptly some 300,000 years ago. The sudden extinction is a mystery to archaeologists, who have produced several competing theories. Mainstream thinking divides along **two axes**.
 

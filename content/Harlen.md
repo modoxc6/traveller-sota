@@ -1,5 +1,5 @@
 #traveller #sota #npc
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 A **fixer**, red-haired, who **ran [[Winter Shipping]]** for [[Ven Yasha]]. **Seen in person for the first time on 196-1105**, aboard the [[Winter Shipping Station|company's hidden base]] — and last seen there as it counted down to destruction.
 

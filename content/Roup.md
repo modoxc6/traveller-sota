@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 Homeworld of [[Kostas Backett]].
 

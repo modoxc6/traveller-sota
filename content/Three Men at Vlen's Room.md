@@ -1,5 +1,5 @@
 #traveller #sota #clue
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 [[Travellers' Aid Society]] security camera footage from the [[Regina Down TAS Hostel]] — obtained and viewed by the party — shows **three men going to [[Vlen Backett]]'s room**.
 

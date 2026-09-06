@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 **Destroyed on 196-1105.** [[Harlen]] triggered its self-destruct while the crew were aboard; the crew escaped by capsule and watched it go.
 

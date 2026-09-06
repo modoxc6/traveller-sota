@@ -1,5 +1,5 @@
 #traveller #sota #species #clue
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 Colloquial name for a species that lived **300,000 years ago**. Comparatively little is known about them.
 

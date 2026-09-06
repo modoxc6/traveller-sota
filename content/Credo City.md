@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 **Capital city of [[Regina]]**, population 87 million, on the eastern edge of the continent of Noncredo. Called **Credo** in the library entries; "Credo City" is how the Commission's paperwork refers to it.
 

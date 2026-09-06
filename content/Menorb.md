@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 An unremarkable agricultural planet, known mainly for producing food for export to the [[Vargr]] market.
 

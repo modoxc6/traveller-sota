@@ -1,5 +1,5 @@
 #traveller #sota #faction
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 A logistics and cargo-buying company operating in both [[Credo City]] and [[Startown|Star Town]], the thin strip between Credo and [[Atora]].
 

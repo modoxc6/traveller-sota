@@ -1,5 +1,5 @@
 #traveller #sota #clue
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 Running state of the investigation into [[Vlen Backett's Murder]], from the GM's board.
 

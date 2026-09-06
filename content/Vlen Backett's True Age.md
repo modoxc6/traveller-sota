@@ -1,5 +1,5 @@
 #traveller #sota #clue
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 The coroner's report on [[Vlen Backett]] states:
 

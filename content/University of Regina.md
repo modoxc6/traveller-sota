@@ -1,5 +1,5 @@
 #traveller #sota #faction
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 Commonly used to refer to any of several prestigious academic institutions on [[Regina]]. Collectively, the University of Regina is the **largest and most successful higher-level education and research facility in the [[Spinward Marches]]**.
 

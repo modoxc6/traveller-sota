@@ -1,5 +1,5 @@
 #traveller #sota #species
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 *An animal.* Large herbivore common to the [[Alell]] jungles.
 

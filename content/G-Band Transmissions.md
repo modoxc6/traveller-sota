@@ -1,5 +1,5 @@
 #traveller #sota #clue
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 The subject of [[Ujinka's Research]]: [[Iaros Ujinka]] is investigating links between g-band transmissions and sites of [[The Ancients|Ancient technology]].
 

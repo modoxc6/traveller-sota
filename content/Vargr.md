@@ -1,5 +1,5 @@
 #traveller #sota #species
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 A species found outside the [[Imperium]], in territory referred to as the **Vargr extents**. [[Tusal]] is believed to have been imported from there roughly a century ago.
 

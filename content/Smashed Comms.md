@@ -1,5 +1,5 @@
 #traveller #sota #item #clue
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 A smashed comms unit recovered from [[Vlen Backett]]'s room at the [[Regina Down TAS Hostel]] — the room the [[Three Men at Vlen's Room]] walked into.
 

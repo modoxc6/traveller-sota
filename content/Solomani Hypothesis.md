@@ -1,5 +1,5 @@
 #traveller #sota #clue
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 The theory that **Humaniti originally evolved on the planet of Terra**, home of the Solomani. According to it, [[The Ancients]] transplanted primitive humans to other worlds across the galaxy — most notably the homeworlds of the Vilani and the [[Zhodani]].
 

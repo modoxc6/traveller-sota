@@ -1,5 +1,5 @@
 #traveller #sota #npc #rival
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 **Rival.** A mysterious crime lord, wanted by numerous worlds around [[Regina]]. Location unknown.
 

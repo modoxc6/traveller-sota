@@ -1,5 +1,5 @@
 #traveller #sota #npc #contact
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 **Contact.** Retired admiral. Hates [[Tyrus Cassius]].
 

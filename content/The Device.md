@@ -1,5 +1,5 @@
 #traveller #sota #clue
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 The third of the [[Three Men at Vlen's Room]] — the red-haired one whose face was never caught — carried a device that appears to have **caused electrical problems**.
 

@@ -10,31 +10,54 @@ $ErrorActionPreference = "Stop"
 
 $vault = "D:\Obsidian\Personal\TTRPG\TTRPG Games"
 $src   = Join-Path $vault "Traveller Secrets of the Ancients"
-$index = Join-Path $vault "Traveller Secrets of the Ancients.md"
+# The campaign's index listing lives on the hub note INSIDE the folder, which is
+# what every other note backlinks. The note one level up holds only the campaign
+# metadata (Game / GM / Group / Status). The homepage needs both: that YAML on
+# top of the hub's body.
+$hubNote  = Join-Path $src "Secrets of the Ancients.md"
+$metaNote = Join-Path $vault "Traveller Secrets of the Ancients.md"
 $repo  = $PSScriptRoot
 $dest  = Join-Path $repo "content"
 
-if (-not (Test-Path $src))   { throw "Campaign folder not found: $src" }
-if (-not (Test-Path $index)) { throw "Campaign index note not found: $index" }
+if (-not (Test-Path $src))      { throw "Campaign folder not found: $src" }
+if (-not (Test-Path $hubNote))  { throw "Campaign hub note not found: $hubNote" }
+if (-not (Test-Path $metaNote)) { throw "Campaign metadata note not found: $metaNote" }
 
 # Rebuild content/ from scratch so deleted notes don't linger on the site.
 if (Test-Path $dest) { Remove-Item $dest -Recurse -Force }
 New-Item -ItemType Directory -Path $dest | Out-Null
 
+# The hub note is excluded here -- it becomes index.md below. Copying it as well
+# would publish the same listing twice, at two URLs.
 Get-ChildItem $src -Filter *.md |
-  Where-Object { $_.Name -ne "CLAUDE.md" -and $_.Name -ne "AGENTS.md" } |
+  Where-Object {
+    $_.Name -ne "CLAUDE.md" -and $_.Name -ne "AGENTS.md" -and
+    $_.Name -ne "Secrets of the Ancients.md"
+  } |
   Copy-Item -Destination $dest
 
 Copy-Item (Join-Path $src "Attachments") $dest -Recurse
-Copy-Item $index (Join-Path $dest "index.md")
 
-# Every note's line 2 is [[Traveller Secrets of the Ancients]], but the homepage
-# has to live at content/index.md -- repoint the wikilink, keep the display text.
+# Build the homepage: metadata frontmatter + the hub's body. The hub's own first
+# line is a backlink to the metadata note, which isn't published -- drop it.
+$meta = [regex]::Match([IO.File]::ReadAllText($metaNote), '(?s)^---\r?\n.*?\r?\n---\r?\n').Value
+if (-not $meta) { Write-Warning "No frontmatter found in $metaNote -- homepage will have none." }
+$hubBody = [IO.File]::ReadAllText($hubNote) -replace '(?s)^\s*\[\[Traveller Secrets of the Ancients\]\]\r?\n', ''
+[IO.File]::WriteAllText((Join-Path $dest "index.md"), $meta + $hubBody)
+
+# Every note's line 2 backlinks the hub, but the hub is published at
+# content/index.md -- repoint the wikilink and keep the display text. Also catch
+# the older [[Traveller Secrets of the Ancients]] form in case a note predates
+# the vault's move to the in-folder hub.
 Get-ChildItem $dest -Filter *.md | ForEach-Object {
+  if ($_.Name -eq "index.md") { return }
   $text = [IO.File]::ReadAllText($_.FullName)
   $text = $text.Replace(
     "[[Traveller Secrets of the Ancients]]",
     "[[index|Traveller Secrets of the Ancients]]")
+  $text = $text.Replace(
+    "[[Secrets of the Ancients]]",
+    "[[index|Secrets of the Ancients]]")
   [IO.File]::WriteAllText($_.FullName, $text)
 }
 

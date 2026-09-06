@@ -1,5 +1,5 @@
 #traveller #sota #item
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 **Recovered on 196-1105.** A **statuette** and a set of **data disks**, taken off [[Harlen]]'s desk aboard the [[Winter Shipping Station|hidden base]] by [[Ozymandius Forthrast|Ozy]] in the last thirty seconds before it self-destructed. Harlen was sitting right there with his eyes closed and was not interfered with.
 

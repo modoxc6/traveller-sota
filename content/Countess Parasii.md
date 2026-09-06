@@ -1,5 +1,5 @@
 #traveller #sota #npc
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 Ruler of [[Uakye]]. Strongly affirms her planet's independence from "the technocracy one system over" — meaning [[Efate]].
 

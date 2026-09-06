@@ -1,5 +1,5 @@
 #traveller #sota #faction
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 **The local police force of [[Regina]].** [[Pallod Norrim]] is a Chief Inspector. Its Regina Office sent the party the notice of [[Vlen Backett]]'s death on 190-1105.
 

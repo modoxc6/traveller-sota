@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 The region around the old [[Regina]] starport, now the primary downport. A strip of bars, cheap hostelries, raucous entertainments and less savoury businesses — **notoriously violent, corrupt and profitable**.
 

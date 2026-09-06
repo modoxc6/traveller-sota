@@ -1,5 +1,5 @@
 #traveller #sota #npc
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 The crew's contact at [[Winter Shipping]], arranged on 195-1105.
 

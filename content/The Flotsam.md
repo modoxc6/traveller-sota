@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 A bar. Where [[Detective Odoy]] wants to meet the party at 10pm on **195-1105** — see [[Meeting at the Flotsam]].
 

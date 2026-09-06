@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 [[Vargr]] region. The [[40th Squadron]] is one of the best-organised Vargr bands in it.
 

@@ -1,5 +1,5 @@
 #traveller #sota #npc
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 Receptionist at [[Winter Shipping]]'s [[Startown|Star Town]] office. Described as very attractive.
 

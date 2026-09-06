@@ -1,5 +1,5 @@
 #traveller #sota #event
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 A war whose chaotic aftermath let a surviving squadron of [[Vargr]] warships carve out its own petty kingdom — the [[40th Squadron]].
 

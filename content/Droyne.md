@@ -1,5 +1,5 @@
 #traveller #sota #species
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 A species found in association with [[The Ancients]] — the similarities between Ancients sites include **the use of Droyne as pets or servants**, which is one of the arguments for a single Ancients culture (see [[Ancients Extinction Theories]]).
 

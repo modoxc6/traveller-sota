@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 High Tech Level, high population, **almost as influential as [[Regina]]**. A major crossroads for trade and Imperial naval operations — the [[213th Fleet]] is headquartered here.
 

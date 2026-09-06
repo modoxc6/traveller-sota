@@ -1,5 +1,5 @@
 #traveller #sota #faction
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 Imperial naval fleet. Headquartered at [[Efate]], with a forward operating base in the [[Pixie]] system.
 

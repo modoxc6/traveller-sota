@@ -1,5 +1,5 @@
 #traveller #sota #faction
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 A quasi-religious group that arose following confirmation of the **Solomani Hypothesis** — that all Humaniti stems from a single source.
 

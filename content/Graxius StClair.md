@@ -1,5 +1,5 @@
 #traveller #sota #character
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 Player character. **Owns the [[Event Horizon]]** — though the other characters' Ship Shares contributed a little towards her.
 

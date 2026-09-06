@@ -1,5 +1,5 @@
 #traveller #sota #npc
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 The [[Event Horizon]]'s **gunner**. Brought along as hired muscle for the raid on the [[Winter Shipping Station]] on 196-1105, when [[Graxius StClair|StClair]] pulled out and the boarding party was down to its two worst combatants.
 

@@ -1,5 +1,5 @@
 #traveller #sota #species
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 A minor race of sophonts resembling ambulatory sea slugs.
 

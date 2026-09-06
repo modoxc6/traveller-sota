@@ -1,5 +1,5 @@
 #traveller #sota #character
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 ##### Kostas Backett
 38 years old. Ex-Navy (Flight), Petty Officer 3rd class — busted out after backing [[Tyrus Cassius]]'s failed mutiny. Burn scars across his upper body from a cryo accident, a cheap prosthetic arm from a boarding action gone wrong, and a glass eye bought with borrowed money. Low SOC, no connections, and just enough skills to be useful on someone else's ship.

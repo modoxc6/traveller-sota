@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 **A former pirate base.** A volcanic wilderness with a minimal biosphere and few natural resources.
 

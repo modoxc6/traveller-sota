@@ -1,5 +1,5 @@
 #traveller #sota #location
-[[Secrets of the Ancients]]
+[[index|Secrets of the Ancients]]
 
 System hosting a **forward operating base of the [[213th Fleet]]**. Travellers are requested not to travel here without due cause.
 
