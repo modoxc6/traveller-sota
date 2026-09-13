@@ -55,3 +55,4 @@ All from [[Exceedingly Discreet]], unverified:
 ###### Notes
 - The crew intend to investigate Winter Shipping before meeting [[Detective Odoy]] at [[The Flotsam]].
 - After the Odoy meeting, the crew decided to **break in** — targets being the unnetworked system, the passage between the buildings, and the launch records.
+- 196-1105: the Credo office revisited — [[Exceedingly Discreet]] gone, a receipt for the crew's own earlier trade the only find. Dead end; the crew left Regina

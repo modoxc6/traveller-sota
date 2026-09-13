@@ -29,3 +29,4 @@ The meeting happened. Odoy is **investigating [[Ven Yasha]]**, and his account c
 
 ###### Notes
 -
+- **Not updated.** Kostas wanted him told about the base; the others didn't get to him before leaving Regina on 196-1105. GM: "Detective Odoy will never know what happened. He probably wouldn't believe you anyway"

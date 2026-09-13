@@ -8,7 +8,9 @@
 STR 7 · DEX 10 · END 7 · INT 9 (+1 from mustering out) · EDU 8 · SOC 2
 
 ###### Current condition — 196-1105, after the raid on the [[Winter Shipping Station]]
-**STR 1 · DEX 2 · END 1.** All three physical characteristics damaged, which means **surgery** — a hospital or sickbay, not first aid — and he **cannot heal on rest**: a Traveller needing surgery regains only their END DM per day, and his END DM is negative. The [[Event Horizon]]'s sickbay is the fix.
+**Surgery done, 196-1105.** [[Graxius StClair|StClair]] operated in the [[Event Horizon]]'s medbay and succeeded: **END 1 → 5**. Now on daily medical care in jump — plan is END to 7 and DEX up on day one, DEX full on day two, STR restored within about four days. Two days already banked.
+
+Before that: **STR 1 · DEX 2 · END 1.** All three physical characteristics damaged, which meant **surgery** — a hospital or sickbay, not first aid — and he **could not heal on rest**: a Traveller needing surgery regains only their END DM per day, and his END DM was negative.
 
 |     | Was | Now   |
 | --- | --- | ----- |

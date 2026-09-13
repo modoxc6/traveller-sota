@@ -69,7 +69,7 @@ He also **knew the crew on sight** — Kostas by face, Cassius by uniform.
 - **Get [[Kostas Backett|Kostas]] into surgery** — the ship's sickbay or a Regina hospital
 - **Examine the statuette and the data disks**
 - **Establish whether [[Harlen]] is dead**, and what he actually was
-- **Decide how to handle [[Exceedingly Discreet]]** now its base is scrap
+- ~~Decide how to handle [[Exceedingly Discreet]]~~ — gone from the Credo office by the morning of 196-1105; not found
 - **Answer Ujinka** — whether the [[Event Horizon]] takes on [[Ujinka's Research]]
 - Still open, deprioritised: **meet [[Darrian Jak]] in prison** to test Pallod's case
 
@@ -98,4 +98,5 @@ The tally now includes a dead professor on the Duke's private land at [[Dancado]
 - The [[Vargr]] cluster — [[The Ancients]] uplifted them, the [[Church of the Chosen Ones]] claims their inheritance, [[Tusal]] came from their extents, and Vargr once crossed hundreds of parsecs to see Vlen
 
 ###### Notes
+- **196-1105: the crew left [[Regina]]** for [[Alell]] without reporting to [[Detective Odoy]], without Vlen's body, and without finding [[Exceedingly Discreet]]. The active investigation is now the material aboard: [[Ujinka's Research]], the [[Vlen's Statuette and Data Crystals|Boughene statue]] and Vlen's disks, which point at [[Boughene]] and at [[Juni]] on [[Beck's World]]
 -

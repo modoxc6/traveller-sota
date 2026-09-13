@@ -35,3 +35,6 @@ It saw through two cover stories and responded to the truth. Purely transactiona
 
 ###### Notes
 -
+
+###### Gone — 196-1105
+[[Tyrus Cassius|Cassius]] and [[Ozymandius Forthrast|Ozy]] returned to the Credo office the morning after the base was destroyed. **It was no longer there.** Its sealed chamber was empty, the computers gave nothing, and nothing indicated where it had gone. Whether it knows the base is gone, or left because of it, is unknown. The crew left Regina without finding it

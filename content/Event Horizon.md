@@ -16,11 +16,31 @@ This is the ship [[Kostas Backett]] talked his way aboard to find Cassius and de
 - [[Kostas Backett]]
 - [[Ozymandius Forthrast]]
 - [[Tyrus Cassius]]
+- [[Talia]] — steward (Steward 3), Cr4,000/month from 196-1105 (was Cr2,000)
+- [[Gunner Gunnerson]] — gunner, Cr4,000/month
+- [[Atticus Brown]] — second gunner, cheap; "just wanted to get off planet"
+
+Crew wages Cr9,000/month total from 196-1105 (was Cr7,000).
+
+###### Aboard
+- Two research companies under charter, **[[Helix]]** and **[[Black Horizon]]**, with their own labs — off limits to passengers. As of two or three days into the jump to [[Forboldn]], the two are in a **blazing row over a joint discovery** made with Helix equipment and Black Horizon research: ownership, patents, royalties. Talia has asked the crew to intervene
+- **Five high passengers** for [[Alell]], boarded at [[Regina]] 196-1105, Cr60,000 each on arrival. Vetted on a Streetwise roll; the GM rolled their identities on a D66 table privately
+- **Medbay**: DM+1 to Medic checks, treats up to five patients
+- **No low berths** — low passage isn't an option
+- **12 tons of cargo space**; each high passenger uses one ton
+- **Jump-2.** Refuels by skimming gas giants (no roll needed; a roll only speeds it up)
 
 ###### Current tasking
-In orbit around [[Assiniboia]], **tracking [[Winter Shipping]]'s launch** â€” the lab ship's sensors can follow it once it lifts, if the crew know which run to watch.
+**In jump from [[Regina]] to [[Forboldn]]**, departed 196-1105, 7 days 5 hours; first of three legs to [[Alell]]: Forboldn → [[Whanga]] → Alell. Skimmed [[Assiniboia]] for fuel while the crew were on Regina; Forboldn and Whanga have gas giants for the next legs.
 
-As of 196-1105 it is also the crew's armoury: the plan agreed with [[Exceedingly Discreet]] is for the company launch to **rendezvous with the Event Horizon in orbit** so the crew can arm themselves before boarding the [[Winter Shipping Station]]. [[Regina]]'s Law Level 9 makes arming on the ground impossible.
+Carrying [[Ujinka's Research|Ujinka's research notes]] and the [[Vlen's Statuette and Data Crystals|Boughene statuette and Vlen's disks]].
+
+Earlier on 196-1105 she was in orbit around [[Assiniboia]] tracking [[Winter Shipping]]'s launch, and served as the crew's armoury for the raid on the [[Winter Shipping Station]] — [[Regina]]'s Law Level 9 made arming on the ground impossible.
+
+###### Finances
+- Monthly costs were reckoned at Cr236,000; after a spreadsheet correction the ship was **Cr33,500 short** for the month before this trip (Cr70,000 earned from passengers to Regina, Cr18,000 on the Regina cargo)
+- The month falls due after two jumps. Cr300,000 in passage fees at Alell puts her in the black
+- Declined 6 tons of advanced electronics at 110% of Cr100,000 base — which **burned bridges with Regina's legal cargo suppliers for a month**
 
 ###### Notes
 -

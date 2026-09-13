@@ -44,4 +44,5 @@ This is the lead that sent the party to Dancado.
 The same source finds it **inexplicable**: better understanding of Ancient technology would only raise the value of Ancient artefacts, so killing the academic studying it makes no commercial sense. The crew speculated she may have intended to keep the technology out of the wrong hands, or use it herself â€” speculation only.
 
 ###### Notes
-- Ozy recovered unspecified data from her house concerning her research, Vlen and the g-band work.
+- Ozy recovered three research notes from her computer — transcribed in [[Ujinka's Research]]. They name [[Juni]] as the colleague carrying the work on at [[Beck's World]], and record Vlen borrowing the [[Vlen's Statuette and Data Crystals|Boughene statue]] from her.
+- She had a **g-band sensor system** of her own; Vlen meant to acquire it.

@@ -15,4 +15,5 @@ Roup's citizens practise **aquaculture on a planetary scale**, with whole oceans
 [[Tusal]] is **derived from a seaweed**. Kostas grew up on a world whose entire economy is farmed seaweed and micro-organism rafts. Probably nothing — Tusal is grown along the [[Corridor]] sector and has been in Imperial space a century — but the man whose uncle was killed with a seaweed narcotic comes from a planet of seaweed farms.
 
 ###### Notes
+- Confirmed at the table 196-1105 as [[Kostas Backett|Kostas]]' homeworld; the Backett family are from [[Alell]]
 -

@@ -16,32 +16,38 @@ Date: 2026-06-07
 - [Regina Situation Board](https://modoxc6.github.io/personal/regina-situation-board/) — the case board: people, leads and how they connect
 - [Traveller Skills](https://modoxc6.github.io/personal/traveller-skills/) — skill reference sheet
 - [Speculative Trade](https://modoxc6.github.io/personal/traveller-trade-onepager/) — speculative trade one-pager
+- [Traveller Map](https://travellermap.com/) — the Spinward Marches and everything else, system by system
+- [[Attachments/Combat_Cheat_Sheet.png|Combat Cheat Sheet]] — GM's one-page Traveller 2E (2022) combat reference
 - [[Investigation Status]] — running timeline and open threads for [[Vlen Backett's Murder]] 
 ##### Index
 ###### Sessions
+- [[Session 2026-09-13]] — passengers and cargo at Regina; Kostas's surgery; Ujinka's notes read and the statue traced to Boughene; jump to Forboldn, and a patent row aboard
 - [[Session 2026-09-06]] — the hidden base boarded and cleared; Harlen blows it by closing his eyes; the statuette and data disks recovered as the crew flee
 - [[Session 2026-08-23]] — Winter Shipping broken into; a Llellewyoly runs the records and trades passage to the orbital station for Harlen's death
 - [[Session 2026-08-16]] — Winter Shipping recced and hacked; Odoy names Ven Yasha as Vlen's killer and Harlen as the redhead
 - [[Session 2026-08-02]] — Ujinka lost; Pallod names Jak; Alahir and Winter Shipping leads uncovered
 
 ###### Characters
-- [[Graxius StClair]] — owner of the Event Horizon; wild-haired, tool-laden, mentored by Ujinka
-- [[Kostas Backett]] — ex-Navy petty officer turned drifter, prosthetic arm, glass eye
+- [[Graxius StClair]] — owner of the Event Horizon; wild-haired, tool-laden, mentored by Ujinka; ex-wife Juni
+- [[Kostas Backett]] — ex-Navy petty officer turned drifter, prosthetic arm, glass eye; recovering from surgery
 - [[Ozymandius Forthrast]] — tinted glasses, long coat, tablet in hand
 - [[Tyrus Cassius]] — retiring Admiral, led the failed mutiny Kostas backed; owns the Implacable
 
 ###### NPCs
+- [[Atticus Brown]] — the Event Horizon's second gunner; cheap, wanted off-planet
 - [[Aylin Boro]] — retired admiral, hates Cassius, has Kostas mistaken for someone else (contact)
 - [[Countess Parasii]] — ruler of Uakye; no connection to the investigation
 - [[Darrian Jak]] — short red-haired Tusal dealer in POC custody; the crew think he's a fall guy for being red-haired
 - [[Detective Odoy]] — met the party at the Flotsam; says Ven Yasha killed Vlen and the spy story is a cover
 - [[Gunner Gunnerson]] — the Event Horizon’s one-eyed ex-Marine gunner; carried both firefights aboard the base
-- [[Exceedingly Discreet]] — Llellewyoly running Winter Shipping's records; wants Harlen dead and the company for itself
+- [[Exceedingly Discreet]] — Llellewyoly that ran Winter Shipping's records and wanted Harlen dead; **vanished** from the Credo office 196-1105
 - [[Harlen]] — red-haired fixer who ran Winter Shipping for Ven Yasha; blew the base by closing his eyes, **fate unknown**
 - [[Marid]] — receptionist at Winter Shipping's Star Town office
 - [[Olso]] — the crew's Winter Shipping contact; collecting their Yori cargo
 - [[Pallod Norrim]] — Chief Inspector; named Jak as Vlen's killer, now refuses the crew's calls
+- [[Juni]] — StClair's ex-wife; carrying Ujinka's g-band work at the Beck's World Ancients site
 - [[Iaros Ujinka]] — history professor at Dancado, StClair's mentor; **murdered** mid-meeting with the party
+- [[Talia]] — the Event Horizon's steward, Steward 3; "the underpaid", now Cr4,000
 - [[Vlen Backett]] — "Uncle Vlen", restless family rogue with an improbable address book (ally, **murdered**)
 - [[Ven Yasha]] — unseen crime lord wanted around Regina; owns Winter Shipping, ordered Ujinka's death (rival)
 - [[Zena Antonia]] — receptionist at the Regina Down TAS Hostel; flirting with Kostas
@@ -51,13 +57,15 @@ Date: 2026-06-07
 - [[Assiniboia]] — the gas giant Regina orbits; several semi-stable Lagrangian points
 - [[Atora]] — Regina's other city, traditionalist rival to Credo
 - [[Beck's World]] — former pirate base; Ujinka's research site, StClair's ex-wife is still there
-- [[Boughene]] — scout base surveying coreward and spinward; closed to visitors
+- [[Boughene]] — closed scout base, "nothing of interest" — and a g-band footprint and Ancient anchor array in its asteroid belt
 - [[Corridor]] — sector where Tusal is grown
 - [[Credo City]] — capital of Regina, 87 million; where Vlen was murdered and his body lies in cryo
 - [[Dancado]] — forested region north of Credo, **the Duke's private property**; where Ujinka was killed
 - [[Efate]] — high-TL crossroads, almost as influential as Regina; 213th Fleet HQ
+- [[Forboldn]] — first leg of the route to Alell; gas giant for fuel
 - [[Feri]] — civil war underway, provisional Amber classification
 - [[Gvurrdon]] — Vargr region; the 40th Squadron's ground
+- [[Kan]] — site the Vilani misfiled as a precursor society; named in Ujinka's conference notes
 - [[Knorbes]] — Imperial game reserve; technologically restricted zone
 - [[Menorb]] — agricultural world feeding the Vargr market, plagued by raiders
 - [[Pixie]] — forward operating base of the 213th Fleet; visitors discouraged
@@ -70,6 +78,7 @@ Date: 2026-06-07
 - [[Startown]] — the downport strip; violent, corrupt and profitable
 - [[The Flotsam]] — bar; venue for Odoy's 195-1105 meeting
 - [[Uakye]] — tidally locked; Countess Parasii resents Efate
+- [[Whanga]] — second hop on the route to Alell, between Forboldn and Alell; gas giant for fuel
 - [[Winter Shipping Station]] — three containers hidden in a Lagrangian container yard, not a station at all; **destroyed** 196-1105
 - [[Wochiers]] — four-bar atmosphere, crystal growing, bring a plant
 - [[Yori]] — where the party travelled from, leaving 185-1105
@@ -77,15 +86,17 @@ Date: 2026-06-07
 
 ###### Ships
 - [[Alahir]] — non-standard Scout Service-registered ship that carried Imperial Intelligence to Regina; has departed
-- [[Event Horizon]] — the party's ship, a Lab Ship
+- [[Event Horizon]] — the party's Lab Ship; in jump for Forboldn with five high passengers and two feuding research companies
 - [[Implacable]] — Pinnace carried by the Event Horizon
 
 ###### Factions
 - [[213th Fleet]] — Imperial fleet, HQ at Efate, forward base at Pixie
 - [[40th Squadron]] — organised Vargr power bloc in Gvurrdon, once bankrolled by the Zhodani
+- [[Black Horizon]] — research company chartering lab space on the Event Horizon; in a patent row with Helix
 - [[Brotherhood of Humaniti]] — human unity cult; institutions that oppose it "must be destroyed"
 - [[Church of the Chosen Ones]] — fringe Vargr sect; hold Vargr to be the Ancients' heirs
 - [[First Ducal Bank]] — holds the money set aside for Kostas' expenses on Regina
+- [[Helix]] — research company chartering lab space on the Event Horizon; in a patent row with Black Horizon
 - [[Imperium]] — the Third Imperium, dominant polity; Vlen had contacts beyond its borders
 - [[Kaldi Research]] — private corporation running lab ships for hire across the Marches
 - [[Regina Public Order Commission]] — Regina's civil authority; holding Vlen's estate and his body
@@ -114,14 +125,14 @@ Date: 2026-06-07
 ###### Items
 - [[Smashed Comms]] — yielded Winter Shipping as Vlen's last call before becoming unusable
 - [[Tusal]] — illegal seaweed-derived narcotic; Vlen was full of it when he was shot
-- [[Vlen's Statuette and Data Crystals]] — **recovered** off Harlen's desk; the statuette resembles Ujinka's Ancient material
+- [[Vlen's Statuette and Data Crystals]] — Ancient winged pillar from Boughene's asteroid belt, a fragment of an anchor array; disks hold Vlen's plan to scan Boughene
 
 ###### Clues
 - [[Ancients Extinction Theories]] — competing accounts of how the Ancients vanished
 - [[Being Followed]] — apparent POC grav car at Dancado; local officers deny it was theirs
-- [[G-Band Transmissions]] — the signals Ujinka thinks are linked to Ancient sites
+- [[G-Band Transmissions]] — g-band dead zones cast by buried Ancient structures; found at Regina and Boughene
 - [[Investigation Status]] — running timeline and open threads
-- [[Ujinka's Research]] — Ancient sites and g-band; what Vlen was funding, and what the party are now asked to
+- [[Ujinka's Research]] — her three recovered notes: the dead-zone method, the Boughene statue, and the Ancients as one entity
 - [[Irregularities in Vlen Backett's Affairs]] — the Commission won't put in writing what's wrong with the estate
 - [[Meeting at the Flotsam]] — happened; Odoy's account contradicts the POC's case at every point
 - [[Solomani Hypothesis]] — the Ancients seeded Humaniti from Terra; the Brotherhood's founding fact

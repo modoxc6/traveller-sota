@@ -28,4 +28,6 @@ A world that divides everyone into staff and guests, and got rich on it.
 - [[Cadgeree]] — winged snake that drops on prey from height *(not confirmed as an Alell species)*
 
 ###### Notes
+- **The [[Event Horizon]] is bound here**, departed [[Regina]] 196-1105, three jumps via [[Forboldn]]. Five high passengers paying Cr60,000 each on arrival. Vlen's body was **not** brought along — it is still with the [[Regina Public Order Commission|POC]]
+- [[Ozymandius Forthrast|Ozy]]'s homeworld [[Uakye]] is next door
 -

@@ -19,3 +19,4 @@ Older man, greying dark hair, waxed moustache. Dark naval dress uniform — heav
 - Cassius reported the Dancado attack to Chief Inspector [[Pallod Norrim]].
 - He used his network to build influence on Regina beyond Pallod and learned about the [[Alahir]], its captain's repeated meetings with Pallod, and offworlders reportedly operating in POC uniforms.
 - His network also reported that an Imperial police force had taken over a murder inquiry as state security, with the dead man rumoured to have been a Zhodani spy. The claims remain unverified.
+- 196-1105: went back into [[Credo City|Credo]] with [[Ozymandius Forthrast|Ozy]] to check [[Winter Shipping]]'s office — [[Exceedingly Discreet]] gone, nothing found. Offered his savings to fund the trip. Vetted the passengers on Streetwise. Ran the jump to [[Forboldn]] (astrogation Effect +1, jump roll +6). **Training** in jump — eight weeks needed
