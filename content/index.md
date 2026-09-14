@@ -18,6 +18,7 @@ Date: 2026-06-07
 - [Speculative Trade](https://modoxc6.github.io/personal/traveller-trade-onepager/) — speculative trade one-pager
 - [Traveller Map](https://travellermap.com/) — the Spinward Marches and everything else, system by system
 - [[Attachments/Combat_Cheat_Sheet.png|Combat Cheat Sheet]] — GM's one-page Traveller 2E (2022) combat reference
+- [[Attachments/Space_Combat_Cheat_Sheet.pdf|Space Combat Cheat Sheet]] — GM's Traveller 2E space combat reference
 - [[Investigation Status]] — running timeline and open threads for [[Vlen Backett's Murder]] 
 ##### Index
 ###### Sessions
