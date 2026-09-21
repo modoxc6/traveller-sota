@@ -23,15 +23,16 @@ This is the ship [[Kostas Backett]] talked his way aboard to find Cassius and de
 Crew wages Cr9,000/month total from 196-1105 (was Cr7,000).
 
 ###### Aboard
-- Two research companies under charter, **[[Helix]]** and **[[Black Horizon]]**, with their own labs — off limits to passengers. As of two or three days into the jump to [[Forboldn]], the two are in a **blazing row over a joint discovery** made with Helix equipment and Black Horizon research: ownership, patents, royalties. Talia has asked the crew to intervene
-- **Five high passengers** for [[Alell]], boarded at [[Regina]] 196-1105, Cr60,000 each on arrival. Vetted on a Streetwise roll; the GM rolled their identities on a D66 table privately
+- Two research companies under charter, **[[Helix]]** and **[[Black Horizon]]**, with their own labs — off limits to passengers. Their row over a joint discovery in the first jump was settled in Black Horizon's favour by Ozy. Charter terms now known: Helix pay the ship a 2% royalty on breakthroughs capped at Cr1,000,000; Black Horizon pay none, claim exclusive patents, and **the crew may not inspect Black Horizon's cargo** — which is how live [[Carthus|carthuses]] got aboard and into the maintenance shafts in the third jump. Black Horizon have their own security detail
+- **[[Five High Passengers]]** for [[Alell]], boarded at [[Regina]] 196-1105, Cr60,000 each on arrival. Vetted on a Streetwise roll; the GM rolled their identities on a D66 table privately — and one of them is a shapeshifting alien in a skin suit, whose mating pheromone stank out the ventilation in the second jump
+- **Maintenance shafts and ventilation** run everywhere and are, as Kostas put it, exposed to everything. Repair drones can be flown through the vents on Remote Ops
 - **Medbay**: DM+1 to Medic checks, treats up to five patients
 - **No low berths** — low passage isn't an option
 - **12 tons of cargo space**; each high passenger uses one ton
 - **Jump-2.** Refuels by skimming gas giants (no roll needed; a roll only speeds it up)
 
 ###### Current tasking
-**In jump from [[Regina]] to [[Forboldn]]**, departed 196-1105, 7 days 5 hours; first of three legs to [[Alell]]: Forboldn → [[Whanga]] → Alell. Skimmed [[Assiniboia]] for fuel while the crew were on Regina; Forboldn and Whanga have gas giants for the next legs.
+**In the third jump, [[Whanga]] → [[Alell]]**, with escaped carthuses in the shafts and the crew hunting them. Route flown: [[Regina]] → [[Forboldn]] (departed 196-1105, 7 days 5 hours) → Whanga → Alell, skimming the gas giant at each stop. Skimmed [[Assiniboia]] for fuel while the crew were on Regina.
 
 Carrying [[Ujinka's Research|Ujinka's research notes]] and the [[Vlen's Statuette and Data Crystals|Boughene statuette and Vlen's disks]].
 

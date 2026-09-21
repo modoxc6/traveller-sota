@@ -4,7 +4,7 @@
 Running state of the investigation into [[Vlen Backett's Murder]], from the GM's board.
 
 ###### Timeline
-**Current date: 196-1105, morning — the crew are in wild land outside the Twin Cities, having escaped the destruction of Winter Shipping's hidden base. Chapter 1 complete.**
+**Current date: c. 215-1105 — the [[Event Horizon]] is in her third jump, [[Whanga]] → [[Alell]], with the crew in the maintenance shafts hunting Black Horizon's escaped specimens. Chapter 1 complete; Alell days away.**
 
 | Date | Event |
 |---|---|
@@ -22,6 +22,10 @@ Running state of the investigation into [[Vlen Backett's Murder]], from the GM's
 | **196-1105** | **[[Harlen]] triggers the self-destruct by closing his eyes.** [[Vlen's Statuette and Data Crystals]] taken off his desk |
 | **196-1105** | **The base is destroyed.** The crew escape by capsule and land outside the Twin Cities |
 | — | The [[Alahir]] has **departed** Regina, date not given |
+| **c. 197-1105** | The crew **leave Regina** for [[Alell]] via [[Forboldn]] and [[Whanga]], five high passengers aboard |
+| **c. 197–204** | First jump: [[Helix]] / [[Black Horizon]] row settled for Black Horizon |
+| **c. 205–211** | Second jump: one passenger turns out to be a shapeshifting alien in its mating season ([[Five High Passengers]]) |
+| **c. 212–** | Third jump: Black Horizon's [[Carthus|carthus]] specimens escape into the shafts; hunt under way |
 
 The dates put the party's departure from [[Yori]] five days *before* the death notice was sent, but the party's understanding is that they left **because of** the notice. Most likely a slip in the GM's dates rather than something in the fiction — treated as such unless it comes up in play.
 
@@ -100,3 +104,4 @@ The tally now includes a dead professor on the Duke's private land at [[Dancado]
 ###### Notes
 - **196-1105: the crew left [[Regina]]** for [[Alell]] without reporting to [[Detective Odoy]], without Vlen's body, and without finding [[Exceedingly Discreet]]. The active investigation is now the material aboard: [[Ujinka's Research]], the [[Vlen's Statuette and Data Crystals|Boughene statue]] and Vlen's disks, which point at [[Boughene]] and at [[Juni]] on [[Beck's World]]
 -
+- **Transit, Session 2026-09-20:** nothing touched the investigation. Two jumps of ship trouble — the research row, the passenger-blob, the carthus breach — and the crew are days out from Alell. Vlen's family, his burial and the Cr300,000 are the next real moves

@@ -22,6 +22,7 @@ Date: 2026-06-07
 - [[Investigation Status]] — running timeline and open threads for [[Vlen Backett's Murder]] 
 ##### Index
 ###### Sessions
+- [[Session 2026-09-20]] — three jumps to Alell: Ozy settles the Helix / Black Horizon row, a passenger turns out to be a blob in a skin suit, and Black Horizon's carthuses get loose in the shafts
 - [[Session 2026-09-13]] — passengers and cargo at Regina; Kostas's surgery; Ujinka's notes read and the statue traced to Boughene; jump to Forboldn, and a patent row aboard
 - [[Session 2026-09-06]] — the hidden base boarded and cleared; Harlen blows it by closing his eyes; the statuette and data disks recovered as the crew flee
 - [[Session 2026-08-23]] — Winter Shipping broken into; a Llellewyoly runs the records and trades passage to the orbital station for Harlen's death
@@ -30,7 +31,7 @@ Date: 2026-06-07
 
 ###### Characters
 - [[Graxius StClair]] — owner of the Event Horizon; wild-haired, tool-laden, mentored by Ujinka; ex-wife Juni
-- [[Kostas Backett]] — ex-Navy petty officer turned drifter, prosthetic arm, glass eye; recovering from surgery
+- [[Kostas Backett]] — ex-Navy petty officer turned drifter, prosthetic arm, glass eye; recovered, and handy with a stun stick
 - [[Ozymandius Forthrast]] — tinted glasses, long coat, tablet in hand
 - [[Tyrus Cassius]] — retiring Admiral, led the failed mutiny Kostas backed; owns the Implacable
 
@@ -41,14 +42,16 @@ Date: 2026-06-07
 - [[Darrian Jak]] — short red-haired Tusal dealer in POC custody; the crew think he's a fall guy for being red-haired
 - [[Detective Odoy]] — met the party at the Flotsam; says Ven Yasha killed Vlen and the spy story is a cover
 - [[Gunner Gunnerson]] — the Event Horizon’s one-eyed ex-Marine gunner; carried both firefights aboard the base
+- [[Five High Passengers]] — the drunk, the recluse, the noble, the friendly one and the blob; Cr60,000 each at Alell
 - [[Exceedingly Discreet]] — Llellewyoly that ran Winter Shipping's records and wanted Harlen dead; **vanished** from the Credo office 196-1105
 - [[Harlen]] — red-haired fixer who ran Winter Shipping for Ven Yasha; blew the base by closing his eyes, **fate unknown**
 - [[Marid]] — receptionist at Winter Shipping's Star Town office
 - [[Olso]] — the crew's Winter Shipping contact; collecting their Yori cargo
 - [[Pallod Norrim]] — Chief Inspector; named Jak as Vlen's killer, now refuses the crew's calls
+- [[Kay]] — Black Horizon's rep aboard; won the patent row, and Ozy is chatting her up
 - [[Juni]] — StClair's ex-wife; carrying Ujinka's g-band work at the Beck's World Ancients site
 - [[Iaros Ujinka]] — history professor at Dancado, StClair's mentor; **murdered** mid-meeting with the party
-- [[Talia]] — the Event Horizon's steward, Steward 3; "the underpaid", now Cr4,000
+- [[Talia]] — the Event Horizon's steward, Steward 3; "the underpaid", now Cr4,000; found the skin suit
 - [[Vlen Backett]] — "Uncle Vlen", restless family rogue with an improbable address book (ally, **murdered**)
 - [[Ven Yasha]] — unseen crime lord wanted around Regina; owns Winter Shipping, ordered Ujinka's death (rival)
 - [[Zena Antonia]] — receptionist at the Regina Down TAS Hostel; flirting with Kostas
@@ -63,7 +66,7 @@ Date: 2026-06-07
 - [[Credo City]] — capital of Regina, 87 million; where Vlen was murdered and his body lies in cryo
 - [[Dancado]] — forested region north of Credo, **the Duke's private property**; where Ujinka was killed
 - [[Efate]] — high-TL crossroads, almost as influential as Regina; 213th Fleet HQ
-- [[Forboldn]] — first leg of the route to Alell; gas giant for fuel
+- [[Forboldn]] — first leg of the route to Alell; refuelled at the gas giant, nobody went down
 - [[Feri]] — civil war underway, provisional Amber classification
 - [[Gvurrdon]] — Vargr region; the 40th Squadron's ground
 - [[Kan]] — site the Vilani misfiled as a precursor society; named in Ujinka's conference notes
@@ -79,7 +82,7 @@ Date: 2026-06-07
 - [[Startown]] — the downport strip; violent, corrupt and profitable
 - [[The Flotsam]] — bar; venue for Odoy's 195-1105 meeting
 - [[Uakye]] — tidally locked; Countess Parasii resents Efate
-- [[Whanga]] — second hop on the route to Alell, between Forboldn and Alell; gas giant for fuel
+- [[Whanga]] — second hop on the route to Alell; refuelled at the gas giant, nobody went down
 - [[Winter Shipping Station]] — three containers hidden in a Lagrangian container yard, not a station at all; **destroyed** 196-1105
 - [[Wochiers]] — four-bar atmosphere, crystal growing, bring a plant
 - [[Yori]] — where the party travelled from, leaving 185-1105
@@ -87,17 +90,17 @@ Date: 2026-06-07
 
 ###### Ships
 - [[Alahir]] — non-standard Scout Service-registered ship that carried Imperial Intelligence to Regina; has departed
-- [[Event Horizon]] — the party's Lab Ship; in jump for Forboldn with five high passengers and two feuding research companies
+- [[Event Horizon]] — the party's Lab Ship; third jump, Whanga → Alell, with carthuses loose in the shafts
 - [[Implacable]] — Pinnace carried by the Event Horizon
 
 ###### Factions
 - [[213th Fleet]] — Imperial fleet, HQ at Efate, forward base at Pixie
 - [[40th Squadron]] — organised Vargr power bloc in Gvurrdon, once bankrolled by the Zhodani
-- [[Black Horizon]] — research company chartering lab space on the Event Horizon; in a patent row with Helix
+- [[Black Horizon]] — secretive research company chartering lab space on the Event Horizon; won the patent row, then lost its specimens into the shafts
 - [[Brotherhood of Humaniti]] — human unity cult; institutions that oppose it "must be destroyed"
 - [[Church of the Chosen Ones]] — fringe Vargr sect; hold Vargr to be the Ancients' heirs
 - [[First Ducal Bank]] — holds the money set aside for Kostas' expenses on Regina
-- [[Helix]] — research company chartering lab space on the Event Horizon; in a patent row with Black Horizon
+- [[Helix]] — honest, bureaucratic research company chartering lab space on the Event Horizon; lost the patent row and resents it
 - [[Imperium]] — the Third Imperium, dominant polity; Vlen had contacts beyond its borders
 - [[Kaldi Research]] — private corporation running lab ships for hire across the Marches
 - [[Regina Public Order Commission]] — Regina's civil authority; holding Vlen's estate and his body
@@ -114,6 +117,7 @@ Date: 2026-06-07
 ###### Species
 - [[Rynkatropa]] — whistling sea-slug sophonts, enslaved by the Vargr at TL1
 - [[Cadgeree]] — winged snake that drops on prey and snaps its spine
+- [[Carthus]] — pale, boneless desert cave-dweller; Black Horizon's escaped specimens, loose in the Event Horizon's shafts
 - [[Droyne]] — kept by the Ancients as pets or servants; organised into oyntrips
 - [[Lambdragon]] — Alell herbivore; a stampede can flatten a tank
 - [[Llellewyoly]] — 'Dandelions'; plant-like sophonts with dozens of simultaneous titles

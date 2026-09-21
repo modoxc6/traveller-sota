@@ -7,7 +7,10 @@
 ###### Characteristics
 STR 7 · DEX 10 · END 7 · INT 9 (+1 from mustering out) · EDU 8 · SOC 2
 
-###### Current condition — 196-1105, after the raid on the [[Winter Shipping Station]]
+###### Current condition — third jump to [[Alell]], c. 215-1105
+**Fully recovered** — STR 7 · DEX 10 · END 7 by the arrival at [[Whanga]]. Out of the medbay, coffees resumed. Barred from training in the first jump ("not while recovering in the medbay"), one week of **Streetwise** banked in the second. Now in the maintenance shafts hunting [[Carthus|carthuses]] with [[Graxius StClair|StClair]]'s stun stick — stunned the first one with it (2D6−1, one hit) after the security officer missed, and took the rear of the marching order.
+
+###### Previous condition — 196-1105, after the raid on the [[Winter Shipping Station]]
 **Surgery done, 196-1105.** [[Graxius StClair|StClair]] operated in the [[Event Horizon]]'s medbay and succeeded: **END 1 → 5**. Now on daily medical care in jump — plan is END to 7 and DEX up on day one, DEX full on day two, STR restored within about four days. Two days already banked.
 
 Before that: **STR 1 · DEX 2 · END 1.** All three physical characteristics damaged, which meant **surgery** — a hospital or sickbay, not first aid — and he **could not heal on rest**: a Traveller needing surgery regains only their END DM per day, and his END DM was negative.
