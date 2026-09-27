@@ -7,7 +7,12 @@
 ###### Characteristics
 STR 7 · DEX 10 · END 7 · INT 9 (+1 from mustering out) · EDU 8 · SOC 2
 
-###### Current condition — third jump to [[Alell]], c. 215-1105
+###### Current condition — [[Alell]] system, c. 219-1105
+**Fit again**, per the GM ("I really don't want you knackered"), and on a **laser turret** for the fight with [[Delta 2]].
+
+In the [[Session 2026-09-27]] carthus hunt: dodged a 16-damage lunge at his face, opened the control-room door, finished one carthus there, then killed two more in the corridor: one blown apart when he fired without aiming, one shot dead. Three kills in all. Then one leapt on his back: **19 damage, 14 after armour 5, which took END 0 and STR 0 (DEX 10). Unconscious**, even after a dodge and a leadership assist from Cassius. [[Graxius StClair|StClair]] used the medikit Kostas had on him (effect counted as 1), then operated in the medbay: DM+1, plus a boon die for having just done the same operation, **Effect +3, END +3**, then daily recovery. The table's running joke is that he's unconscious after every fight. His first question on waking was whether the Admiral was all right.
+
+###### Previous condition — third jump to [[Alell]], c. 215-1105
 **Fully recovered** — STR 7 · DEX 10 · END 7 by the arrival at [[Whanga]]. Out of the medbay, coffees resumed. Barred from training in the first jump ("not while recovering in the medbay"), one week of **Streetwise** banked in the second. Now in the maintenance shafts hunting [[Carthus|carthuses]] with [[Graxius StClair|StClair]]'s stun stick — stunned the first one with it (2D6−1, one hit) after the security officer missed, and took the rear of the marching order.
 
 ###### Previous condition — 196-1105, after the raid on the [[Winter Shipping Station]]

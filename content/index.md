@@ -22,6 +22,7 @@ Date: 2026-06-07
 - [[Investigation Status]] — running timeline and open threads for [[Vlen Backett's Murder]] 
 ##### Index
 ###### Sessions
+- [[Session 2026-09-27]] — carthus hunt finished (Kostas down again), Kay explains the growth serum, and a fake Alell patrol ship opens fire on arrival
 - [[Session 2026-09-20]] — three jumps to Alell: Ozy settles the Helix / Black Horizon row, a passenger turns out to be a blob in a skin suit, and Black Horizon's carthuses get loose in the shafts
 - [[Session 2026-09-13]] — passengers and cargo at Regina; Kostas's surgery; Ujinka's notes read and the statue traced to Boughene; jump to Forboldn, and a patent row aboard
 - [[Session 2026-09-06]] — the hidden base boarded and cleared; Harlen blows it by closing his eyes; the statuette and data disks recovered as the crew flee
@@ -31,7 +32,7 @@ Date: 2026-06-07
 
 ###### Characters
 - [[Graxius StClair]] — owner of the Event Horizon; wild-haired, tool-laden, mentored by Ujinka; ex-wife Juni
-- [[Kostas Backett]] — ex-Navy petty officer turned drifter, prosthetic arm, glass eye; recovered, and handy with a stun stick
+- [[Kostas Backett]] — ex-Navy petty officer turned drifter, prosthetic arm, glass eye; unconscious after every fight, patched up again
 - [[Ozymandius Forthrast]] — tinted glasses, long coat, tablet in hand
 - [[Tyrus Cassius]] — retiring Admiral, led the failed mutiny Kostas backed; owns the Implacable
 
@@ -48,7 +49,8 @@ Date: 2026-06-07
 - [[Marid]] — receptionist at Winter Shipping's Star Town office
 - [[Olso]] — the crew's Winter Shipping contact; collecting their Yori cargo
 - [[Pallod Norrim]] — Chief Inspector; named Jak as Vlen's killer, now refuses the crew's calls
-- [[Kay]] — Black Horizon's rep aboard; won the patent row, and Ozy is chatting her up
+- [[Pedro]] — Black Horizon security guard; stunned two carthuses, lost a chunk of shoulder
+- [[Kay]] — Black Horizon's rep aboard; Ozy's lover; offered the growth serum for the crew's silence
 - [[Juni]] — StClair's ex-wife; carrying Ujinka's g-band work at the Beck's World Ancients site
 - [[Iaros Ujinka]] — history professor at Dancado, StClair's mentor; **murdered** mid-meeting with the party
 - [[Talia]] — the Event Horizon's steward, Steward 3; "the underpaid", now Cr4,000; found the skin suit
@@ -57,7 +59,7 @@ Date: 2026-06-07
 - [[Zena Antonia]] — receptionist at the Regina Down TAS Hostel; flirting with Kostas
 
 ###### Locations
-- [[Alell]] — Vlen Backett's homeworld; rich tourist world, lethal jungles
+- [[Alell]] — Vlen Backett's homeworld; rich tourist world, lethal jungles; no gas giant, no highport
 - [[Assiniboia]] — the gas giant Regina orbits; several semi-stable Lagrangian points
 - [[Atora]] — Regina's other city, traditionalist rival to Credo
 - [[Beck's World]] — former pirate base; Ujinka's research site, StClair's ex-wife is still there
@@ -90,13 +92,14 @@ Date: 2026-06-07
 
 ###### Ships
 - [[Alahir]] — non-standard Scout Service-registered ship that carried Imperial Intelligence to Regina; has departed
-- [[Event Horizon]] — the party's Lab Ship; third jump, Whanga → Alell, with carthuses loose in the shafts
-- [[Implacable]] — Pinnace carried by the Event Horizon
+- [[Delta 2]] — claims to be an Alell patrol ship; Alell has none; went dark and fired missiles
+- [[Event Horizon]] — the party's Lab Ship; at Alell, one jump of fuel, fighting Delta 2
+- [[Implacable]] — Pinnace carried by the Event Horizon; one fixed beam laser
 
 ###### Factions
 - [[213th Fleet]] — Imperial fleet, HQ at Efate, forward base at Pixie
 - [[40th Squadron]] — organised Vargr power bloc in Gvurrdon, once bankrolled by the Zhodani
-- [[Black Horizon]] — secretive research company chartering lab space on the Event Horizon; won the patent row, then lost its specimens into the shafts
+- [[Black Horizon]] — secretive research company chartering lab space on the Event Horizon; won the patent row, lost its specimens into the shafts, kept the serum that grew them
 - [[Brotherhood of Humaniti]] — human unity cult; institutions that oppose it "must be destroyed"
 - [[Church of the Chosen Ones]] — fringe Vargr sect; hold Vargr to be the Ancients' heirs
 - [[First Ducal Bank]] — holds the money set aside for Kostas' expenses on Regina
@@ -117,7 +120,7 @@ Date: 2026-06-07
 ###### Species
 - [[Rynkatropa]] — whistling sea-slug sophonts, enslaved by the Vargr at TL1
 - [[Cadgeree]] — winged snake that drops on prey and snaps its spine
-- [[Carthus]] — pale, boneless desert cave-dweller; Black Horizon's escaped specimens, loose in the Event Horizon's shafts
+- [[Carthus]] — pale, boneless desert cave-dweller; Black Horizon's serum-grown specimens, hunted down aboard the Event Horizon
 - [[Droyne]] — kept by the Ancients as pets or servants; organised into oyntrips
 - [[Lambdragon]] — Alell herbivore; a stampede can flatten a tank
 - [[Llellewyoly]] — 'Dandelions'; plant-like sophonts with dozens of simultaneous titles
@@ -128,6 +131,7 @@ Date: 2026-06-07
 - [[Zhodani]] — rivals of the Imperium; have funded the 40th Squadron against it
 
 ###### Items
+- [[Black Horizon's Growth Serum]] — grew the carthus embryos instantly; offered to the crew for their silence
 - [[Smashed Comms]] — yielded Winter Shipping as Vlen's last call before becoming unusable
 - [[Tusal]] — illegal seaweed-derived narcotic; Vlen was full of it when he was shot
 - [[Vlen's Statuette and Data Crystals]] — Ancient winged pillar from Boughene's asteroid belt, a fragment of an anchor array; disks hold Vlen's plan to scan Boughene

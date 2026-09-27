@@ -5,3 +5,4 @@
 
 ###### Notes
 -
+- [[Session 2026-09-27]]: **"the Greenhorn"**, **Gunner 2**. Put on the **missile turret** against [[Delta 2]], since none of the player characters' skills help with missiles, and launched three on turn 1

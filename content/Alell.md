@@ -14,6 +14,14 @@ Originally settled by **the descendants of hotel staff**, Alell has become a ric
 
 A rich tourist world with lethal jungles and a pharmaceutical trade — and the man who grew up here died full of a plant-derived narcotic.
 
+###### The system — as found, c. 219-1105
+- **No gas giant and no highport.** No way to refuel by skimming
+- A lot of **radiation from the system's sun**, enough to interfere with sensor scans
+- In orbit, a **cargo handling station**, a **medical facility**, and a **rapid-response emergency service for rescuing people lost in the jungle**. None of them take visiting ships
+- A **surface starport** that a pinnace like the [[Implacable]] can use and a lab ship can't
+- **Doesn't normally have patrol ships assigned**, per Ozy's Computers check. [[Delta 2]] claims to be one anyway
+- The GM's framing: "a bit of an arse-end", a toxic, poisonous jungle world used for hunting in the past, with very old First Imperium buildings. More to come when he reads out the world text
+
 ###### Culture
 The hotel-staff origin still runs through the language:
 - **Hos** — an inferior or servant, from the old Vilani dialect term *hos'ai*, servant or staff in the catering industry
@@ -31,3 +39,4 @@ A world that divides everyone into staff and guests, and got rich on it.
 - **The [[Event Horizon]] is bound here**, departed [[Regina]] 196-1105, three jumps via [[Forboldn]]. Five high passengers paying Cr60,000 each on arrival. Vlen's body was **not** brought along — it is still with the [[Regina Public Order Commission|POC]]
 - [[Ozymandius Forthrast|Ozy]]'s homeworld [[Uakye]] is next door
 -
+- [[Session 2026-09-27]]: **arrived**, c. 219-1105, and went straight into a fight with [[Delta 2]] before reaching orbit. One jump of fuel left in the tanks. Passage fees not yet collected

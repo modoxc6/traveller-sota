@@ -9,3 +9,4 @@ Name heard as Kay / K; spelling unconfirmed.
 
 ###### Notes
 -
+- [[Session 2026-09-27]]: after the carthus hunt Ozy went to her room. A Carousing check gave him DM+3 on Advocate, Effect +7, and she gave him the lowdown: frozen carthus embryos plus [[Black Horizon's Growth Serum]], contact by accident, instant growth. The embryos are destroyed and the serum kept, and **she offered the serum to the crew in return for keeping quiet**. Then she kicked Ozy out for a "growth hormone, eh?" joke. Still friendly enough to pat him on the bum when he warned her about the incoming "authorities" at [[Alell]]

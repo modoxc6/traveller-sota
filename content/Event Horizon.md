@@ -30,9 +30,18 @@ Crew wages Cr9,000/month total from 196-1105 (was Cr7,000).
 - **No low berths** — low passage isn't an option
 - **12 tons of cargo space**; each high passenger uses one ton
 - **Jump-2.** Refuels by skimming gas giants (no roll needed; a roll only speeds it up)
+- **Thrust 2**, poor for a fight
+- **Three turrets: missile, pulse (medium range) and beam (long range).** One missile rack, **12 missiles, 9 left** after [[Session 2026-09-27]]. Restocking costs Cr250,000. Each missile that hits does 4D6
+- **Improved sensors**
+- **Armour, no shields.** Nobody out here has shields
+- **No dedicated mechanic or engineer.** In a fight, damage control means someone swapping off a station
 
 ###### Current tasking
-**In the third jump, [[Whanga]] → [[Alell]]**, with escaped carthuses in the shafts and the crew hunting them. Route flown: [[Regina]] → [[Forboldn]] (departed 196-1105, 7 days 5 hours) → Whanga → Alell, skimming the gas giant at each stop. Skimmed [[Assiniboia]] for fuel while the crew were on Regina.
+**In the [[Alell]] system, c. 219-1105, turn 1 of a space fight with [[Delta 2]]**, a ship claiming to be an Alell patrol. Missiles in flight both ways. **One jump of fuel**: Alell has no gas giant and no highport. Stations: [[Tyrus Cassius|Cassius]] piloting, [[Gunner Gunnerson]] and [[Kostas Backett|Kostas]] on the laser turrets, [[Atticus Brown]] on missiles, [[Ozymandius Forthrast|Ozy]] on sensors.
+
+The carthus hunt finished in the third jump. Two carthuses got into the **control room** and started a cascading systems failure. [[Ozymandius Forthrast|Ozy]] fixed it before it caused a critical hit to the manoeuvre drive.
+
+Earlier: in the third jump, [[Whanga]] → [[Alell]], with escaped carthuses in the shafts and the crew hunting them. Route flown: [[Regina]] → [[Forboldn]] (departed 196-1105, 7 days 5 hours) → Whanga → Alell, skimming the gas giant at each stop. Skimmed [[Assiniboia]] for fuel while the crew were on Regina.
 
 Carrying [[Ujinka's Research|Ujinka's research notes]] and the [[Vlen's Statuette and Data Crystals|Boughene statuette and Vlen's disks]].
 

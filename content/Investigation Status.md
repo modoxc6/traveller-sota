@@ -4,7 +4,7 @@
 Running state of the investigation into [[Vlen Backett's Murder]], from the GM's board.
 
 ###### Timeline
-**Current date: c. 215-1105 — the [[Event Horizon]] is in her third jump, [[Whanga]] → [[Alell]], with the crew in the maintenance shafts hunting Black Horizon's escaped specimens. Chapter 1 complete; Alell days away.**
+**Current date: c. 219-1105 — the [[Event Horizon]] has arrived at [[Alell]] and is in a space fight with [[Delta 2]], a ship falsely claiming to be an Alell patrol. Chapter 1 complete.**
 
 | Date | Event |
 |---|---|
@@ -25,7 +25,8 @@ Running state of the investigation into [[Vlen Backett's Murder]], from the GM's
 | **c. 197-1105** | The crew **leave Regina** for [[Alell]] via [[Forboldn]] and [[Whanga]], five high passengers aboard |
 | **c. 197–204** | First jump: [[Helix]] / [[Black Horizon]] row settled for Black Horizon |
 | **c. 205–211** | Second jump: one passenger turns out to be a shapeshifting alien in its mating season ([[Five High Passengers]]) |
-| **c. 212–** | Third jump: Black Horizon's [[Carthus|carthus]] specimens escape into the shafts; hunt under way |
+| **c. 212–218** | Third jump: Black Horizon's [[Carthus|carthus]] specimens escape into the shafts and are hunted down. Per [[Kay]], they were embryos grown by [[Black Horizon's Growth Serum]] |
+| **c. 219-1105** | **Arrival at [[Alell]]**. [[Delta 2]] hails as an Alell patrol, goes dark and fires missiles |
 
 The dates put the party's departure from [[Yori]] five days *before* the death notice was sent, but the party's understanding is that they left **because of** the notice. Most likely a slip in the GM's dates rather than something in the fiction — treated as such unless it comes up in play.
 
@@ -105,3 +106,4 @@ The tally now includes a dead professor on the Duke's private land at [[Dancado]
 - **196-1105: the crew left [[Regina]]** for [[Alell]] without reporting to [[Detective Odoy]], without Vlen's body, and without finding [[Exceedingly Discreet]]. The active investigation is now the material aboard: [[Ujinka's Research]], the [[Vlen's Statuette and Data Crystals|Boughene statue]] and Vlen's disks, which point at [[Boughene]] and at [[Juni]] on [[Beck's World]]
 -
 - **Transit, Session 2026-09-20:** nothing touched the investigation. Two jumps of ship trouble — the research row, the passenger-blob, the carthus breach — and the crew are days out from Alell. Vlen's family, his burial and the Cr300,000 are the next real moves
+- **Arrival, [[Session 2026-09-27]]:** still nothing on the investigation itself. The carthus hunt ended, and the ship came out of jump at Alell into a fight with [[Delta 2]], which claims to be an Alell patrol ship when Alell has none. Whether anyone at Alell was waiting for *this* ship — for Vlen's next of kin, or for Black Horizon's cargo — is an open question, not a conclusion

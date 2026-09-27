@@ -15,3 +15,4 @@ They can roam the ship but not the research labs. Each uses a ton of cargo space
 
 ###### Notes
 -
+- [[Session 2026-09-27]]: arrived in the [[Alell]] system alive. Fares not yet collected: the ship was in a fight with [[Delta 2]] before reaching orbit

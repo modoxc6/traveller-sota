@@ -13,3 +13,4 @@ Nothing else known about the company or what it researches.
 
 ###### Notes
 -
+- [[Session 2026-09-27]]: warned by Ozy about [[Delta 2]]'s "inspection" at [[Alell]]. They started preparing their documentation, "of which there is a lot"
