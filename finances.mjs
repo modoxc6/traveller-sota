@@ -178,7 +178,7 @@ ${planned.length ? `<div class="panel"><h2>If we…</h2><ul class="whatif">${wha
   `<tr><td>${esc(f.party)}</td><td>${esc(f.item)}</td><td class="num ${f.amount < 0 ? "neg" : "pos"}">${fmt(f.amount)}</td></tr>`).join("")}
   <tr><td></td><td><b>Net per month</b></td><td class="num neg"><b>${fmt(-nextNet)}</b></td></tr></table></div>
 
-<footer>Built from the <a href="./Ship-Finances">Ship Finances</a> note on ${new Date().toISOString().slice(0, 10)}. Back to the <a href="./">campaign wiki</a>.</footer>
+<footer>Built from the <a href="./ship-finances">Ship Finances</a> note on ${new Date().toISOString().slice(0, 10)}. Back to the <a href="./">campaign wiki</a>.</footer>
 </div></body></html>
 `
 writeFileSync(outPath, html)
