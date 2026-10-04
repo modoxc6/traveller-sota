@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ship Finances — Event Horizon</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{--void:#0a1220;--panel:#14213a;--hull:#1c2c4a;--line:#2a3d5f;--paper:#eee7d6;--dim:#b9c3d6;
+        --amber:#f2a33b;--amber-2:#ffcd7a;--cyan:#4fd6c8;--red:#e8604c;}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{background:radial-gradient(ellipse 1200px 700px at 15% -10%,rgba(242,163,59,.10),transparent 60%),var(--void);
+       color:var(--paper);font-family:Inter,sans-serif;padding:28px 16px 60px;line-height:1.5}
+  .sheet{max-width:1000px;margin:0 auto}
+  .mono{font-family:'JetBrains Mono',monospace}
+  header{border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:24px}
+  .eyebrow{font-family:'JetBrains Mono',monospace;font-size:11.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--amber-2)}
+  h1{font-family:Rajdhani,sans-serif;font-size:44px;line-height:1;margin:6px 0 0}
+  h1 span{color:var(--amber)}
+  h2{font-family:Rajdhani,sans-serif;font-size:22px;margin:0 0 12px;letter-spacing:.02em}
+  .sub{color:var(--dim);font-size:14.5px;margin-top:6px}
+  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(200px,100%),1fr));gap:12px;margin-bottom:16px}
+  .card,.panel{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:16px}
+  .card .label{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
+  .card .value{font-family:'JetBrains Mono',monospace;font-size:26px;font-weight:700;margin-top:6px}
+  .card .hint{font-size:12.5px;color:var(--dim);margin-top:2px}
+  .card.key{border-color:var(--amber);background:linear-gradient(var(--hull),var(--panel))}
+  .pos{color:var(--cyan)}.neg{color:var(--red)}.key .value{color:var(--amber)}
+  .panel{margin-bottom:16px}
+  .bar{height:14px;background:var(--void);border:1px solid var(--line);border-radius:7px;overflow:hidden;margin:12px 0 8px}
+  .bar i{display:block;height:100%;background:var(--amber)}
+  .row{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:14px;color:var(--dim)}
+  .row b{color:var(--paper)}.row b.pos{color:var(--cyan)}.row b.neg{color:var(--red)}
+  .countdown{font-family:Rajdhani,sans-serif;font-size:40px;font-weight:700;color:var(--amber);line-height:1}
+  .grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(300px,100%),1fr));gap:16px}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  td{padding:7px 4px;border-top:1px solid var(--line)}
+  td:first-child{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--dim);white-space:nowrap}
+  .num{text-align:right;font-family:'JetBrains Mono',monospace;white-space:nowrap}
+  ul{margin:0;padding-left:18px}li{margin:6px 0;font-size:14px}
+  .whatif{list-style:none;padding:0}.whatif li{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+  details summary{cursor:pointer;font-family:Rajdhani,sans-serif;font-size:22px;font-weight:700;letter-spacing:.02em}
+  details summary span{font-family:Inter,sans-serif;font-size:13px;font-weight:400;color:var(--dim);margin-left:8px}
+  details table{margin-top:12px}
+  th{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--dim);text-align:left;padding:6px 4px;font-weight:500}
+  th.num{text-align:right}
+  tr.pending td{opacity:.75}
+  .tag{font-family:'JetBrains Mono',monospace;font-size:10.5px;text-transform:uppercase;letter-spacing:.1em;border:1px solid var(--line);border-radius:3px;padding:1px 5px;color:var(--amber-2)}
+  footer{margin-top:28px;font-size:12.5px;color:var(--dim)}
+  a{color:var(--amber-2)}
+</style>
+</head>
+<body><div class="sheet">
+<header>
+  <div class="eyebrow">Event Horizon · Lab Ship · Secrets of the Ancients</div>
+  <h1>Ship <span>Finances</span></h1>
+  <div class="sub">As of <b class="mono">219-1105</b> · Month 1, due 219-1105</div>
+</header>
+
+<div class="cards">
+  <div class="card"><div class="label">Funds in hand</div><div class="value">Cr388,000</div><div class="hint">received and paid so far</div></div>
+  <div class="card"><div class="label">Owed to us</div><div class="value pos">Cr329,000</div><div class="hint">4 items outstanding</div></div>
+  <div class="card"><div class="label">Due to pay</div><div class="value neg">−Cr452,474</div><div class="hint">4 known costs</div></div>
+  <div class="card key"><div class="label">Projected month end</div><div class="value">Cr264,526</div><div class="hint">funds + owed − due</div></div>
+</div>
+
+<div class="panel">
+  <h2>Next month's bill</h2>
+  <div class="row"><span>Month 2 due <b class="mono">249-1105</b></span><span><span class="countdown">30</span> days</span></div>
+  <div class="bar"><i style="width:100.0%"></i></div>
+  <div class="row">
+    <span>Projected <b>Cr264,526</b> against a net bill of <b>Cr123,474</b></span>
+    <span><b class="pos">covered 2.1×</b></span>
+  </div>
+  <div class="row" style="margin-top:6px"><span>Mortgage alone Cr396,744 · gross outgoings Cr452,474 if the charters stopped paying</span></div>
+</div>
+
+<div class="panel"><h2>If we…</h2><ul class="whatif"><li><span>Missile restock, 12 missiles <b class="neg">−Cr250,000</b></span><span>leaves <b class="">Cr14,526</b> · Month 2 short by <b class="neg">Cr108,948</b></span></li></ul></div>
+
+<div class="panel"><details>
+  <summary>Full timeline<span>every transaction from Cr0, with running total</span></summary>
+  <table><tr><th>Date</th><th>Item</th><th class="num">In / out</th><th class="num">Total</th></tr><tr><td>Start</td><td>Opening balance</td><td class="num"></td><td class="num">Cr0</td></tr><tr class=""><td>c. 185-1105</td><td>Cargo bought for Regina</td><td class="num neg">−Cr54,000</td><td class="num">−Cr54,000</td></tr><tr class=""><td>193-1105</td><td>Passengers to Regina</td><td class="num pos">Cr70,000</td><td class="num">Cr16,000</td></tr><tr class=""><td>195-1105</td><td>Cargo sold at Regina (to Winter Shipping)</td><td class="num pos">Cr72,000</td><td class="num">Cr88,000</td></tr><tr class=""><td>219-1105</td><td>High passage to Alell, 5 × 60,000</td><td class="num pos">Cr300,000</td><td class="num">Cr388,000</td></tr><tr class="pending"><td>219-1105</td><td>Helix rent <span class="tag">owed</span></td><td class="num pos">Cr100,000</td><td class="num">Cr488,000</td></tr><tr class="pending"><td>219-1105</td><td>Helix maintenance <span class="tag">owed</span></td><td class="num pos">Cr5,000</td><td class="num">Cr493,000</td></tr><tr class="pending"><td>219-1105</td><td>Black Horizon rent <span class="tag">owed</span></td><td class="num pos">Cr200,000</td><td class="num">Cr693,000</td></tr><tr class="pending"><td>219-1105</td><td>Black Horizon life support <span class="tag">owed</span></td><td class="num pos">Cr24,000</td><td class="num">Cr717,000</td></tr><tr class="pending"><td>219-1105</td><td>Ship mortgage <span class="tag">due</span></td><td class="num neg">−Cr396,744</td><td class="num">Cr320,256</td></tr><tr class="pending"><td>219-1105</td><td>Life support <span class="tag">due</span></td><td class="num neg">−Cr24,000</td><td class="num">Cr296,256</td></tr><tr class="pending"><td>219-1105</td><td>Maintenance <span class="tag">due</span></td><td class="num neg">−Cr22,730</td><td class="num">Cr273,526</td></tr><tr class="pending"><td>219-1105</td><td>Crew wages <span class="tag">due</span></td><td class="num neg">−Cr9,000</td><td class="num">Cr264,526</td></tr></table>
+</details></div>
+
+<div class="grid2">
+  <div class="panel"><h2>Owed to us</h2><table><tr><td>219-1105</td><td>Helix rent</td><td class="num pos">Cr100,000</td></tr><tr><td>219-1105</td><td>Helix maintenance</td><td class="num pos">Cr5,000</td></tr><tr><td>219-1105</td><td>Black Horizon rent</td><td class="num pos">Cr200,000</td></tr><tr><td>219-1105</td><td>Black Horizon life support</td><td class="num pos">Cr24,000</td></tr></table></div>
+  <div class="panel"><h2>Due to pay</h2><table><tr><td>219-1105</td><td>Ship mortgage</td><td class="num neg">−Cr396,744</td></tr><tr><td>219-1105</td><td>Life support</td><td class="num neg">−Cr24,000</td></tr><tr><td>219-1105</td><td>Maintenance</td><td class="num neg">−Cr22,730</td></tr><tr><td>219-1105</td><td>Crew wages</td><td class="num neg">−Cr9,000</td></tr></table></div>
+</div>
+
+<div class="panel"><h2>Amounts not yet known</h2><ul><li>Black Horizon's "appreciation" for bringing the carthuses back alive. Promised, never quantified, not mentioned since</li><li>Helix royalties: 2% of any breakthrough, capped at Cr1,000,000. Nothing yet</li><li>Hull repairs: 77 damage, Hull 47 of 124. No yard at Alell. Cost unknown</li><li>Jump drive repair (Severity 1, DM−2 to jump checks). Cost unknown</li><li>Fuel: one jump in the tanks, no gas giant at Alell. Buying fuel and shuttling it up with the Implacable costs something; jumping back to Whanga to skim is free</li><li>Berthing at Alell's surface starport for the Implacable. Unknown</li><li>Possible new crew member: the friendly passenger, if he joins. Wage unknown</li><li>Spare hard point: a fourth turret is an option when there's money</li></ul></div>
+
+<div class="panel"><h2>Monthly fixed</h2><table><tr><td>Ship</td><td>Ship mortgage</td><td class="num neg">−Cr396,744</td></tr><tr><td>Ship</td><td>Life support</td><td class="num neg">−Cr24,000</td></tr><tr><td>Ship</td><td>Maintenance</td><td class="num neg">−Cr22,730</td></tr><tr><td>Ship</td><td>Crew wages (Talia 4,000, Gunner Gunnerson 4,000, Atticus Brown)</td><td class="num neg">−Cr9,000</td></tr><tr><td>Helix</td><td>Rent</td><td class="num pos">Cr100,000</td></tr><tr><td>Helix</td><td>Maintenance</td><td class="num pos">Cr5,000</td></tr><tr><td>Black Horizon</td><td>Rent</td><td class="num pos">Cr200,000</td></tr><tr><td>Black Horizon</td><td>Life support</td><td class="num pos">Cr24,000</td></tr>
+  <tr><td></td><td><b>Net per month</b></td><td class="num neg"><b>−Cr123,474</b></td></tr></table></div>
+
+<footer>Built from the <a href="./Ship-Finances">Ship Finances</a> note on 2026-10-04. Back to the <a href="./">campaign wiki</a>.</footer>
+</div></body></html>
