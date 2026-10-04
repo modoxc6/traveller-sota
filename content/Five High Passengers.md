@@ -16,3 +16,5 @@ They can roam the ship but not the research labs. Each uses a ton of cargo space
 ###### Notes
 -
 - [[Session 2026-09-27]]: arrived in the [[Alell]] system alive. Fares not yet collected: the ship was in a fight with [[Delta 2]] before reaching orbit
+- [[Session 2026-10-04]]: **delivered to Alell by the [[Implacable]]; Cr300,000 collected.** [[Talia]] and Ozy calmed them after the fight (Ozy joked that a couple were paying extra for the excitement; a joke, not money). The official story: a successful elimination of a threat in the system, with the passengers part of it
+	- **The friendly one wanted to stay aboard and help.** Retconned in after the fight: he **took the beam laser for one incoming salvo**, untrained (DM−3), and destroyed no missiles. He still pays his fare. The GM offered him as an **extra crew member**, to be rolled up; the table sounded keen, nothing decided

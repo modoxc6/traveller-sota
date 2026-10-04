@@ -4,7 +4,7 @@
 Running state of the investigation into [[Vlen Backett's Murder]], from the GM's board.
 
 ###### Timeline
-**Current date: c. 219-1105 — the [[Event Horizon]] has arrived at [[Alell]] and is in a space fight with [[Delta 2]], a ship falsely claiming to be an Alell patrol. Chapter 1 complete.**
+**Current date: c. 219-1105 — the [[Event Horizon]] is in orbit over [[Alell]], badly damaged, after destroying [[Delta 2]], a Far Trader falsely claiming to be an Alell patrol. Passengers delivered. Chapter 1 complete; chapter 2 (Alell, Kostas's family) begins.**
 
 | Date | Event |
 |---|---|
@@ -27,6 +27,7 @@ Running state of the investigation into [[Vlen Backett's Murder]], from the GM's
 | **c. 205–211** | Second jump: one passenger turns out to be a shapeshifting alien in its mating season ([[Five High Passengers]]) |
 | **c. 212–218** | Third jump: Black Horizon's [[Carthus|carthus]] specimens escape into the shafts and are hunted down. Per [[Kay]], they were embryos grown by [[Black Horizon's Growth Serum]] |
 | **c. 219-1105** | **Arrival at [[Alell]]**. [[Delta 2]] hails as an Alell patrol, goes dark and fires missiles |
+| **c. 219-1105** | **[[Delta 2]] destroyed** by the Event Horizon's missiles. The Event Horizon left at Hull 47 of 124 with a damaged jump drive. Passengers landed by the [[Implacable]] |
 
 The dates put the party's departure from [[Yori]] five days *before* the death notice was sent, but the party's understanding is that they left **because of** the notice. Most likely a slip in the GM's dates rather than something in the fiction — treated as such unless it comes up in play.
 
@@ -107,3 +108,4 @@ The tally now includes a dead professor on the Duke's private land at [[Dancado]
 -
 - **Transit, Session 2026-09-20:** nothing touched the investigation. Two jumps of ship trouble — the research row, the passenger-blob, the carthus breach — and the crew are days out from Alell. Vlen's family, his burial and the Cr300,000 are the next real moves
 - **Arrival, [[Session 2026-09-27]]:** still nothing on the investigation itself. The carthus hunt ended, and the ship came out of jump at Alell into a fight with [[Delta 2]], which claims to be an Alell patrol ship when Alell has none. Whether anyone at Alell was waiting for *this* ship — for Vlen's next of kin, or for Black Horizon's cargo — is an open question, not a conclusion
+- **Alell, [[Session 2026-10-04]]:** the fight ended with [[Delta 2]] destroyed. Per the GM it was a Far Trader (missile rack, beam laser); the table read it as pirates, and the GM framed it as going after a lab ship it thought was easy pickings. Nobody was identified, so whether it was waiting for *this* ship stays open. Chapter 2 is mostly NPCs, **some of them [[Kostas Backett|Kostas]]'s family**, presumably (an inference) where Vlen's family, his burial and the investigation's Alell end come in

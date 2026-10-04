@@ -15,3 +15,4 @@ Name as heard; spelling unconfirmed (GM's stat block not seen).
 
 ###### Notes
 -
+- [[Session 2026-10-04]]: **the three stunned ones are dead too.** Per the GM, Black Horizon **incinerated** them, judging them too dangerous. Kostas had wanted to stock the airlocks with carthuses against boarders

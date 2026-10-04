@@ -9,3 +9,4 @@ Name heard as Talia / Talley; spelling unconfirmed.
 
 ###### Notes
 -
+- [[Session 2026-10-04]]: after the fight with [[Delta 2]], calmed the rattled passengers (+3, rolled 9, Effect +1) and set Ozy up for his Advocate roll. "Talia's good, isn't she?" "She's the best"

@@ -20,8 +20,10 @@ Date: 2026-06-07
 - [[Attachments/Combat_Cheat_Sheet.png|Combat Cheat Sheet]] — GM's one-page Traveller 2E (2022) combat reference
 - [[Attachments/Space_Combat_Cheat_Sheet.pdf|Space Combat Cheat Sheet]] — GM's Traveller 2E space combat reference
 - [[Investigation Status]] — running timeline and open threads for [[Vlen Backett's Murder]] 
+- [[Ship Finances]] — the Event Horizon's ledger: balance, monthly costs, money owed in and out
 ##### Index
 ###### Sessions
+- [[Session 2026-10-04]] — first space combat: Delta 2 destroyed by missiles, the Event Horizon left at half Hull with a damaged jump drive; passengers delivered to Alell, Cr300,000 collected
 - [[Session 2026-09-27]] — carthus hunt finished (Kostas down again), Kay explains the growth serum, and a fake Alell patrol ship opens fire on arrival
 - [[Session 2026-09-20]] — three jumps to Alell: Ozy settles the Helix / Black Horizon row, a passenger turns out to be a blob in a skin suit, and Black Horizon's carthuses get loose in the shafts
 - [[Session 2026-09-13]] — passengers and cargo at Regina; Kostas's surgery; Ujinka's notes read and the statue traced to Boughene; jump to Forboldn, and a patent row aboard
@@ -92,9 +94,10 @@ Date: 2026-06-07
 
 ###### Ships
 - [[Alahir]] — non-standard Scout Service-registered ship that carried Imperial Intelligence to Regina; has departed
-- [[Delta 2]] — claims to be an Alell patrol ship; Alell has none; went dark and fired missiles
-- [[Event Horizon]] — the party's Lab Ship; at Alell, one jump of fuel, fighting Delta 2
+- [[Delta 2]] — Far Trader posing as an Alell patrol ship; fired missiles, destroyed by the Event Horizon
+- [[Event Horizon]] — the party's Lab Ship; in orbit at Alell, Hull 47 of 124, jump drive damaged, no missiles, one jump of fuel
 - [[Implacable]] — Pinnace carried by the Event Horizon; one fixed beam laser
+- [[Ship Finances]] — the Event Horizon's ledger: balance, monthly costs, money owed in and out
 
 ###### Factions
 - [[213th Fleet]] — Imperial fleet, HQ at Efate, forward base at Pixie

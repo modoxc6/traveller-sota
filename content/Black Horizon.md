@@ -17,3 +17,4 @@ Nothing else known about what they research.
 
 ###### Notes
 -
+- [[Session 2026-10-04]]: per the GM, Black Horizon **incinerated the three stunned carthuses** as too dangerous. No live specimens remain. The serum offer and the "appreciation" are both still outstanding

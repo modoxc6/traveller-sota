@@ -121,6 +121,10 @@ if (-not (Test-Path $deploy)) {
 Get-ChildItem $deploy -Force | Where-Object { $_.Name -ne ".git" } |
   Remove-Item -Recurse -Force
 Copy-Item (Join-Path $repo "public\*") $deploy -Recurse
+# The finances dashboard is a standalone page generated from the Ship Finances
+# note, outside Quartz, so it can look like a dashboard rather than a wiki page.
+node (Join-Path $repo "finances.mjs") (Join-Path $src "Ship Finances.md") (Join-Path $deploy "finances.html")
+if ($LASTEXITCODE -ne 0) { throw "Finances page build failed." }
 # Pages runs Jekyll on branch deploys otherwise, which eats some asset paths.
 New-Item -ItemType File -Path (Join-Path $deploy ".nojekyll") -Force | Out-Null
 # Build output is generated, never hand-edited -- don't let git normalise line

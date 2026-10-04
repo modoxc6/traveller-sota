@@ -21,6 +21,8 @@ A rich tourist world with lethal jungles and a pharmaceutical trade — and the 
 - A **surface starport** that a pinnace like the [[Implacable]] can use and a lab ship can't
 - **Doesn't normally have patrol ships assigned**, per Ozy's Computers check. [[Delta 2]] claims to be one anyway
 - The GM's framing: "a bit of an arse-end", a toxic, poisonous jungle world used for hunting in the past, with very old First Imperium buildings. More to come when he reads out the world text
+- From the chapter's arrival text ([[Session 2026-10-04]], paraphrased): Alell circles an **angry, energetic star**, so ships shelter in the planet's shadow to spare their hulls. From orbit the jungles show **gold and red**, with the lights of **walled resorts** scattered here and there. Getting here from Regina along the Spinward Main means a string of systems with no starport worth the name, refuelling from gas giants or automated hydrogen harvesters
+- **No starport in space at all**, only on the surface. The Event Horizon can't dock anywhere, and Hull repairs can't be had here
 
 ###### Culture
 The hotel-staff origin still runs through the language:
@@ -40,3 +42,4 @@ A world that divides everyone into staff and guests, and got rich on it.
 - [[Ozymandius Forthrast|Ozy]]'s homeworld [[Uakye]] is next door
 -
 - [[Session 2026-09-27]]: **arrived**, c. 219-1105, and went straight into a fight with [[Delta 2]] before reaching orbit. One jump of fuel left in the tanks. Passage fees not yet collected
+- [[Session 2026-10-04]]: **Delta 2 destroyed** in-system. The Event Horizon is parked in orbit in the planet's shadow, badly damaged, and the [[Implacable]] took the passengers down: **Cr300,000 collected**. The local authorities can be told what happened but can't do much from orbit. **Chapter 2 starts here**: less investigation, lots of NPCs, and **some of them are [[Kostas Backett|Kostas]]'s family**. The GM says Alell is where Kostas was born

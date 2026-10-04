@@ -7,7 +7,12 @@
 ###### Characteristics
 STR 7 · DEX 10 · END 7 · INT 9 (+1 from mustering out) · EDU 8 · SOC 2
 
-###### Current condition — [[Alell]] system, c. 219-1105
+###### Current condition — in orbit over [[Alell]], c. 219-1105
+**Fit, and conscious at the end of a fight for once.** In [[Session 2026-10-04]] he moved from the laser turret to **sensors**, since he was the only one aboard with Electronics (sensors) (1). He **detected Delta 2's first launch** (rolled 8) and its **second launch** (Electronic Warfare, Effect 0). His other EW attempts failed (6, then a fail), and so did a Sensor Lock in round 5. No missiles were stopped. He launched no missiles himself, but the Admiral had told him to "stop being cheap" about firing them.
+
+**Alell is home.** The GM said this chapter's NPCs include Kostas's family, and that **Alell is where he was born** before he moved away. *That conflicts with the Homeworld section below ([[Roup]], from character creation); not yet reconciled.*
+
+###### Previous condition — [[Alell]] system, c. 219-1105
 **Fit again**, per the GM ("I really don't want you knackered"), and on a **laser turret** for the fight with [[Delta 2]].
 
 In the [[Session 2026-09-27]] carthus hunt: dodged a 16-damage lunge at his face, opened the control-room door, finished one carthus there, then killed two more in the corridor: one blown apart when he fired without aiming, one shot dead. Three kills in all. Then one leapt on his back: **19 damage, 14 after armour 5, which took END 0 and STR 0 (DEX 10). Unconscious**, even after a dodge and a leadership assist from Cassius. [[Graxius StClair|StClair]] used the medikit Kostas had on him (effect counted as 1), then operated in the medbay: DM+1, plus a boon die for having just done the same operation, **Effect +3, END +3**, then daily recovery. The table's running joke is that he's unconscious after every fight. His first question on waking was whether the Admiral was all right.
@@ -77,6 +82,8 @@ Mechanic 1 · Electronics (Sensors) 1 · Astrogation 1 · Recon 1 · Vacc Suit 1
 
 ###### Homeworld
 [[Roup]]
+
+*[[Session 2026-10-04]]: the GM described [[Alell]] as where Kostas was born, with family there. Which is right, or whether both are (born on Alell, raised on Roup), is unresolved.*
 
 ###### Ship
 Crew of the [[Event Horizon]], owned by [[Graxius StClair]] — Kostas' Ship Share from mustering out went towards her. She carries the Pinnace [[Implacable]], which belongs to [[Tyrus Cassius]].
