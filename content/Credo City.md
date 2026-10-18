@@ -12,7 +12,7 @@ Despite the cultural pretensions, Regina's curious and strict legal system is fu
 
 A city with a large transient population, and a legal regime that sweeps transients — see how those two facts sit together.
 
-His body is held in a cryogenic facility here, pending transfer to [[Kostas Backett]] for transport home to [[Alell]]. His outstanding affairs and belongings are here too.
+His body was held in a cryogenic facility here, pending transfer to [[Kostas Backett]] for transport home to [[Alell]]. **It has since been transferred to the [[Event Horizon]]** and is with the crew at Alell. His outstanding affairs and belongings were here too.
 
 He was staying at the [[Regina Down TAS Hostel]] here when he was killed. The dealer [[Darrian Jak]] works back alleys around the commercial district. The estate of [[Dancado]] lies just outside the city, and [[The Flotsam]] is a bar here.
 

@@ -7,9 +7,13 @@ Two or three days into the jump from [[Regina]] to [[Forboldn]], a **discovery w
 
 **Their charter terms** (per Ozy's read): genuinely honest, painfully bureaucratic, red tape everywhere; the ship gets a **2% royalty on breakthroughs, capped at Cr1,000,000**.
 
-Their rep aboard is played with a hyena picture; name heard as "Rock Anlo", spelling unconfirmed.
+Their rep aboard is played with a hyena picture: [[Rok]] (heard as "Rock Anlo"; the portrait filename spells it Rok).
 
 Nothing else known about the company or what it researches.
+
+![[helix.png|300]]
+
+Full name, per the logo and their rep's lab coat: **Helix Advanced Materials**.
 
 ###### Notes
 -

@@ -7,7 +7,15 @@
 ###### Characteristics
 STR 7 · DEX 10 · END 7 · INT 9 (+1 from mustering out) · EDU 8 · SOC 2
 
-###### Current condition — in orbit over [[Alell]], c. 219-1105
+###### Current condition — [[Vaca Goya]], Alell, the day of the homecoming
+**Home, and holding everyone's problems.** Fit. Went down **without a protective suit**, after the GM left it to the player whether Kostas is acclimatised to the plant gas. He plans to buy a vacc suit while here. Carries a **cutlass** on his hip, and lent StClair's stun stick to Ozy.
+
+- **Has [[Rao's Map]]**, bought from the shuttle pilot [[Rao]] for Cr100, marking where she once dropped Vlen in the jungle. He thinks it's Vlen's lodge, and has shown it to no one. He has Rao's number
+- Told [[Porter Sajan]] he had Vlen's will, then admitted he didn't. **Sajan has made him the intermediary for every claim on the estate** ([[Claims on Vlen's Estate]]), without asking
+- **His parents are here and well.** His mother [[Henna Backett]] dotes on the Admiral; his father [[Merrick Backett]] thinks he looks a mess. [[Nairal Backett]] cried to see him. [[Yusul Parad]] says he trusts Kostas "to do the right thing" about the Cr1,000,000. [[Orisa Backett]] calls him her nephew. [[Marisa Jocell]] remembers him as a snotty little boy
+- Took the Admiral everywhere, arm in arm, to show off. Promised to let Yusul know first if any artefacts turn up
+
+###### Previous condition — in orbit over [[Alell]], c. 219-1105
 **Fit, and conscious at the end of a fight for once.** In [[Session 2026-10-04]] he moved from the laser turret to **sensors**, since he was the only one aboard with Electronics (sensors) (1). He **detected Delta 2's first launch** (rolled 8) and its **second launch** (Electronic Warfare, Effect 0). His other EW attempts failed (6, then a fail), and so did a Sensor Lock in round 5. No missiles were stopped. He launched no missiles himself, but the Admiral had told him to "stop being cheap" about firing them.
 
 **Alell is home.** The GM said this chapter's NPCs include Kostas's family, and that **Alell is where he was born** before he moved away. *That conflicts with the Homeworld section below ([[Roup]], from character creation); not yet reconciled.*
@@ -89,11 +97,15 @@ Mechanic 1 · Electronics (Sensors) 1 · Astrogation 1 · Recon 1 · Vacc Suit 1
 Crew of the [[Event Horizon]], owned by [[Graxius StClair]] — Kostas' Ship Share from mustering out went towards her. She carries the Pinnace [[Implacable]], which belongs to [[Tyrus Cassius]].
 
 ###### Connections
-- **Ally** — [[Vlen Backett]] ("Uncle Vlen"), extended family on [[Alell]]; his "loans" kept Kostas afloat. **Murdered** — Kostas is his registered next of kin and has been summoned to [[Regina]] to deal with the estate and bring the body home
+- **Ally** — [[Vlen Backett]] ("Uncle Vlen"), extended family on [[Alell]]; his "loans" kept Kostas afloat. **Murdered** — Kostas is his registered next of kin and was summoned to [[Regina]] to deal with the estate and bring the body home. The body is now with the crew at [[Alell]]
 - **Rival** — [[Ven Yasha]], the one name that came back when Kostas asked who was causing him trouble
 - **Contact** — [[Aylin Boro]], retired admiral who has him mistaken for someone more important
 - Served under [[Tyrus Cassius]]; backed his failed mutiny
 - Lightly flirting with [[Zena Antonia]], receptionist at the [[Regina Down TAS Hostel]] where the party are staying
+- **Family on [[Alell]]** (Tel's pre-session handout; Kostas knows them mostly through what his parents have told him):
+	- [[Backett Family]] of [[Vaca Goya]] — [[Tomas Backett]] (merchant, disliked Vlen), [[Hans Backett]] (hunter, looking for an angle on Vlen's fortune), [[Gunter Backett]] (15, always wants Kostas's off-world stories), [[Nairal Backett]] (92, great-uncle, sharp)
+	- [[Jocell Family]] — [[Marisa Jocell]] and her son [[Bard Jocell]], the starport branch who look down on the Backetts
+	- Also expected: [[Porter Sajan]], Vaca Goya's village porter, and possibly [[Yusul Parad]], whom Vlen may have owed money
 
 ###### Character Creation
 Rolled: 7, 7, 8, 2, 10, 9 → DEX 10, INT 9, EDU 8, END 7, STR 7, SOC 2
@@ -157,3 +169,4 @@ Rolled: 7, 7, 8, 2, 10, 9 → DEX 10, INT 9, EDU 8, END 7, STR 7, SOC 2
 
 ###### Notes
 -
+- [[Session 2026-10-18]]: **[[Vaca Goya]] on [[Alell]] is home.** The village has his old school and the house he grew up in, and his parents still live there. He left "to secure my fortune, chase glory in the Navy", which "could have gone better". That supports the GM's "born on Alell". The [[Roup]] homeworld from character creation is still unreconciled

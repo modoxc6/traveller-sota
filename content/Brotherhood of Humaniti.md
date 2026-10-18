@@ -16,3 +16,7 @@ Nothing connects the Brotherhood to either killing. Noted as a candidate, not a 
 
 ###### Notes
 -
+- [[Session 2026-10-18]]: **they turned up at Vlen's homecoming on [[Alell]]**: [[Aail]], dancing, with three chanting monks, green robes and shaved heads. **Vlen was one of them**: "the initiate Zu", a member some years ago, who **fled their monastery in the dead of night** and never returned. On joining he **signed over all worldly goods**, and they have the paperwork. It took them "some time to find Zu's homeworld". They also want a **"DNA" ceremony** for their initiate, which [[Porter Sajan]] says will take hours
+	- The GM's reading: an esoteric group who believe all humanity must unite as one, and who **love every human "in a distinctly uncomfortable way"**: "treat every human like you want nothing more than to keep them safe forever, like a collection of butterflies"
+	- **This is the first direct link between Vlen and the Brotherhood.** The note above said nothing connected them to either killing. That's still true of the killings, but Vlen ran from them *(the gap between "fled" and "killed" is not bridged by anything said at the table)*
+	- See [[Claims on Vlen's Estate]]

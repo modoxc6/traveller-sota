@@ -7,5 +7,7 @@ A winged snake with a spiked tail. Extremely effective predators: they attack by
 
 Cadgeree usually attack smaller creatures, but have been known to attack humans when hungry.
 
+**Native to [[Alell]]** — listed in Tel's "Monsters of Alell" handout. *Checking In Indefinitely*, the in-world history of Alell, puts their hunting grounds on the **savannah**, where [[First Imperium]] nobles built hunting lodges to hunt them. That book spells it "cadegeree".
+
 ###### Notes
 -

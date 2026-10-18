@@ -9,6 +9,9 @@ It calls itself **the brains of the operation**. It works an enormous volume of 
 
 It addresses people by titles it invents for them: "overly dressed pompous man" ([[Tyrus Cassius|Cassius]]), "pale-skinned smartly dressed man" ([[Ozymandius Forthrast|Ozy]]), "downtrodden depressed man" ([[Kostas Backett|Kostas]]), "unruly-haired rude scientist man" ([[Graxius StClair|StClair]], after greeting it as a "ballsack with chicken legs").
 
+###### Appearance
+![[exceedingly discreet.jpg|200]]
+
 ###### The deal — 196-1105
 It saw through two cover stories and responded to the truth. Purely transactional, and openly ambitious.
 

@@ -20,3 +20,4 @@ Every relative who knew him as "every child's favourite uncle" knew a man who ha
 
 ###### Notes
 - Kostas researched Vlen's age again before the meeting with Odoy but found nothing new.
+- [[Session 2026-10-18]]: **independent support from the family.** [[Nairal Backett]], 92, Kostas's great-uncle: "I always remember being introduced to him. **He was my great-uncle.** Never understood it." And he "didn't look a day over 50". If Vlen was great-uncle to a man now 92, he was two generations older than Nairal, which fits the records' "at least 180" *(arithmetic here, not at the table)*

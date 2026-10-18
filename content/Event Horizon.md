@@ -19,6 +19,7 @@ This is the ship [[Kostas Backett]] talked his way aboard to find Cassius and de
 - [[Talia]] — steward (Steward 3), Cr4,000/month from 196-1105 (was Cr2,000)
 - [[Gunner Gunnerson]] — gunner, Cr4,000/month
 - [[Atticus Brown]] — second gunner, cheap; "just wanted to get off planet"
+- [[Zed Cole]] — the friendly ex-passenger, joined [[Session 2026-10-18]]; Experienced Combatant, small-craft pilot; salary agreed but not set
 
 Crew wages Cr9,000/month total from 196-1105 (was Cr7,000).
 
@@ -29,6 +30,7 @@ Crew wages Cr9,000/month total from 196-1105 (was Cr7,000).
 - **Medbay**: DM+1 to Medic checks, treats up to five patients
 - **No low berths** — low passage isn't an option
 - **12 tons of cargo space**; each high passenger uses one ton
+- **[[Vlen Backett]]'s body**, transferred from the POC on [[Regina]] and carried to [[Alell]] for burial
 - **Jump-2.** Refuels by skimming gas giants (no roll needed; a roll only speeds it up)
 - **Thrust 2**, poor for a fight
 - **Three turrets: missile, pulse (medium range) and beam (long range).** One missile rack, **12 missiles, 9 left** after [[Session 2026-09-27]]. Restocking costs Cr250,000. Each missile that hits does 4D6
@@ -84,3 +86,4 @@ Earlier on 196-1105 she was in orbit around [[Assiniboia]] tracking [[Winter Shi
 ###### Notes
 -
 - [[Session 2026-10-04]]: first space combat. Stations: Cassius pilot and captain, Kostas sensors, Ozy engineering, Gunnerson pulse laser, Atticus missiles; StClair available as an NPC. Fired all 12 missiles in four salvos of three and destroyed [[Delta 2]]. Took 77 damage and three criticals beyond the Hull one
+- [[Session 2026-10-18]]: still in orbit, damaged, no missiles. **[[Zed Cole]] joins the crew.** The crew blame the Admiral for the damage, and StClair wants to dock his pay for it. Agreed: buy missiles eventually, but don't let the Admiral fire them

@@ -9,3 +9,4 @@ They are **notoriously stupid** and have been known to attack humans and vehicle
 
 ###### Notes
 -
+- [[Session 2026-10-18]]: flocks with brilliant plumage circled the party's shuttle over the jungle on the way to [[Vaca Goya]]

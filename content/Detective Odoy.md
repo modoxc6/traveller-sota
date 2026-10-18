@@ -9,6 +9,9 @@ Dark unkempt hair, stubble, worn dark jacket — nothing like Norrim's uniform. 
 
 Not yet recorded: which agency he belongs to, whether he's on [[Vlen Backett's Murder]], and how he got word to the party.
 
+###### Appearance
+![[detective odoy.png|250]]
+
 ###### What he told the crew — 195-1105
 The meeting happened. Odoy is **investigating [[Ven Yasha]]**, and his account contradicts [[Pallod Norrim]]'s official case at every point. **All of the following is Odoy's claim and none of it is independently verified:**
 

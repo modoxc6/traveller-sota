@@ -37,3 +37,4 @@ Partly read — see above. The rest not yet described.
 
 ###### Notes
 -
+- [[Session 2026-10-18]]: the GM reminded the table they still have the statuette. They wondered whether it hides Vlen's will, and the Admiral wanted to break it open. **The GM confirmed it was scanned: nothing inside, not hollow**

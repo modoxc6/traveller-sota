@@ -14,6 +14,7 @@ Date: 2026-06-07
 ---
 ##### Useful links
 - [Regina Situation Board](https://modoxc6.github.io/personal/regina-situation-board/) — the case board: people, leads and how they connect
+- [Alell Family Tree](https://modoxc6.github.io/personal/alell-family-tree/) — NPC map for Alell: the Backetts, the Jocells, the Parads, and the claims on Vlen's estate
 - [Traveller Skills](https://modoxc6.github.io/personal/traveller-skills/) — skill reference sheet
 - [Speculative Trade](https://modoxc6.github.io/personal/traveller-trade-onepager/) — speculative trade one-pager
 - [Traveller Map](https://travellermap.com/) — the Spinward Marches and everything else, system by system
@@ -23,6 +24,7 @@ Date: 2026-06-07
 - [[Ship Finances]] — the Event Horizon's ledger: balance, monthly costs, money owed in and out
 ##### Index
 ###### Sessions
+- [[Session 2026-10-18]] — down to Alell and home to Vaca Goya: Rao's map of where Vlen vanished, no will, and four claimants on the estate, including a widow and a Brotherhood that says he was theirs
 - [[Session 2026-10-04]] — first space combat: Delta 2 destroyed by missiles, the Event Horizon left at half Hull with a damaged jump drive; passengers delivered to Alell, Cr300,000 collected
 - [[Session 2026-09-27]] — carthus hunt finished (Kostas down again), Kay explains the growth serum, and a fake Alell patrol ship opens fire on arrival
 - [[Session 2026-09-20]] — three jumps to Alell: Ozy settles the Helix / Black Horizon row, a passenger turns out to be a blob in a skin suit, and Black Horizon's carthuses get loose in the shafts
@@ -41,34 +43,52 @@ Date: 2026-06-07
 ###### NPCs
 - [[Atticus Brown]] — the Event Horizon's second gunner; cheap, wanted off-planet
 - [[Aylin Boro]] — retired admiral, hates Cassius, has Kostas mistaken for someone else (contact)
+- [[Aail]] — dancing Brotherhood of Humaniti envoy; claims Vlen signed everything over as Initiate Zu
+- [[Orisa Backett]] — Southern-accented widow nobody knew Vlen had; wedding certificate in hand
+- [[Bard Jocell]] — Marisa's son; fawns over off-world nobles and tourists
 - [[Countess Parasii]] — ruler of Uakye; no connection to the investigation
 - [[Darrian Jak]] — short red-haired Tusal dealer in POC custody; the crew think he's a fall guy for being red-haired
 - [[Detective Odoy]] — met the party at the Flotsam; says Ven Yasha killed Vlen and the spy story is a cover
 - [[Gunner Gunnerson]] — the Event Horizon’s one-eyed ex-Marine gunner; carried both firefights aboard the base
-- [[Five High Passengers]] — the drunk, the recluse, the noble, the friendly one and the blob; Cr60,000 each at Alell
+- [[Gunter Backett]] — Tomas's 15-year-old son; always wants Kostas's off-world stories
+- [[Five High Passengers]] — the drunk, the recluse, the noble, the friendly one (now crew) and the blob; Cr60,000 each at Alell
 - [[Exceedingly Discreet]] — Llellewyoly that ran Winter Shipping's records and wanted Harlen dead; **vanished** from the Credo office 196-1105
+- [[Hans Backett]] — hunter and trapper, Tomas's brother, Backett co-head; talks up Vlen's hidden fortune, looking for an angle
+- [[Henna Backett]] — Kostas's mother; dotes on the Admiral, "so good to see you again"
 - [[Harlen]] — red-haired fixer who ran Winter Shipping for Ven Yasha; blew the base by closing his eyes, **fate unknown**
 - [[Marid]] — receptionist at Winter Shipping's Star Town office
+- [[Marisa Jocell]] — insufferable socialite leading the Jocell delegation; says Vlen owes her his spaceship
+- [[Merrick Backett]] — Kostas's father; "you look a mess, boy"
+- [[Morgan]] — Yusul Parad's unarmed muscle
+- [[Nairal Backett]] — Kostas's 92-year-old great-uncle; Vlen was *his* great-uncle; knows of Vlen's lodge
 - [[Olso]] — the crew's Winter Shipping contact; collecting their Yori cargo
 - [[Pallod Norrim]] — Chief Inspector; named Jak as Vlen's killer, now refuses the crew's calls
 - [[Pedro]] — Black Horizon security guard; stunned two carthuses, lost a chunk of shoulder
-- [[Kay]] — Black Horizon's rep aboard; Ozy's lover; offered the growth serum for the crew's silence
+- [[Rao]] — Alell shuttle pilot; once flew Vlen into the jungle and fetched him a week later
+- [[Rok]] — Helix's hyena-man rep aboard
+- [[Porter Sajan]] — Vaca Goya's porter, magistrate and spiritual leader; handed the estate claims to Kostas
+- [[Khei]] — Black Horizon's cat-woman rep aboard (once noted as Kay); Ozy's lover; offered the growth serum for the crew's silence
 - [[Juni]] — StClair's ex-wife; carrying Ujinka's g-band work at the Beck's World Ancients site
 - [[Iaros Ujinka]] — history professor at Dancado, StClair's mentor; **murdered** mid-meeting with the party
 - [[Talia]] — the Event Horizon's steward, Steward 3; "the underpaid", now Cr4,000; found the skin suit
+- [[Tomas Backett]] — merchant, Backett head in Vaca Goya, Hans's brother; never liked Vlen; Ozy is his "neutral third party"
 - [[Vlen Backett]] — "Uncle Vlen", restless family rogue with an improbable address book (ally, **murdered**)
 - [[Ven Yasha]] — unseen crime lord wanted around Regina; owns Winter Shipping, ordered Ujinka's death (rival)
+- [[Yusul Parad]] — Parad gang boss; says Vlen owes him Cr1,000,000 and traded in ancient artefacts
+- [[Zed Cole]] — the friendly ex-passenger, now crew; Experienced Combatant with secret allies
 - [[Zena Antonia]] — receptionist at the Regina Down TAS Hostel; flirting with Kostas
 
 ###### Locations
-- [[Alell]] — Vlen Backett's homeworld; rich tourist world, lethal jungles; no gas giant, no highport
+- [[Alell]] — Backett family homeworld; old First Imperium hunting world, now walled lodge-cities, Law Level 12; no highport
+- [[Alell Starport]] — Class B surface port; First Imperium stepped pyramid by a walled town
 - [[Assiniboia]] — the gas giant Regina orbits; several semi-stable Lagrangian points
 - [[Atora]] — Regina's other city, traditionalist rival to Credo
 - [[Beck's World]] — former pirate base; Ujinka's research site, StClair's ex-wife is still there
 - [[Boughene]] — closed scout base, "nothing of interest" — and a g-band footprint and Ancient anchor array in its asteroid belt
 - [[Corridor]] — sector where Tusal is grown
-- [[Credo City]] — capital of Regina, 87 million; where Vlen was murdered and his body lies in cryo
+- [[Credo City]] — capital of Regina, 87 million; where Vlen was murdered
 - [[Dancado]] — forested region north of Credo, **the Duke's private property**; where Ujinka was killed
+- [[Dranxi Jungle]] — Alell jungle; First Imperium hunting lodges at its heart
 - [[Efate]] — high-TL crossroads, almost as influential as Regina; 213th Fleet HQ
 - [[Forboldn]] — first leg of the route to Alell; refuelled at the gas giant, nobody went down
 - [[Feri]] — civil war underway, provisional Amber classification
@@ -86,6 +106,7 @@ Date: 2026-06-07
 - [[Startown]] — the downport strip; violent, corrupt and profitable
 - [[The Flotsam]] — bar; venue for Odoy's 195-1105 meeting
 - [[Uakye]] — tidally locked; Countess Parasii resents Efate
+- [[Vaca Goya]] — the Backetts' hilltop farming village, pop. ~1,000, ringed by mist-sprayer poles
 - [[Whanga]] — second hop on the route to Alell; refuelled at the gas giant, nobody went down
 - [[Winter Shipping Station]] — three containers hidden in a Lagrangian container yard, not a station at all; **destroyed** 196-1105
 - [[Wochiers]] — four-bar atmosphere, crystal growing, bring a plant
@@ -95,21 +116,25 @@ Date: 2026-06-07
 ###### Ships
 - [[Alahir]] — non-standard Scout Service-registered ship that carried Imperial Intelligence to Regina; has departed
 - [[Delta 2]] — Far Trader posing as an Alell patrol ship; fired missiles, destroyed by the Event Horizon
-- [[Event Horizon]] — the party's Lab Ship; in orbit at Alell, Hull 47 of 124, jump drive damaged, no missiles, one jump of fuel
+- [[Event Horizon]] — the party's Lab Ship; in orbit at Alell, Zed Cole now crew, Hull 47 of 124, jump drive damaged, no missiles, one jump of fuel
 - [[Implacable]] — Pinnace carried by the Event Horizon; one fixed beam laser
 - [[Ship Finances]] — the Event Horizon's ledger: balance, monthly costs, money owed in and out
 
 ###### Factions
 - [[213th Fleet]] — Imperial fleet, HQ at Efate, forward base at Pixie
 - [[40th Squadron]] — organised Vargr power bloc in Gvurrdon, once bankrolled by the Zhodani
+- [[Backett Family]] — Vlen and Kostas's family, of Vaca Goya on Alell
 - [[Black Horizon]] — secretive research company chartering lab space on the Event Horizon; won the patent row, lost its specimens into the shafts, kept the serum that grew them
-- [[Brotherhood of Humaniti]] — human unity cult; institutions that oppose it "must be destroyed"
+- [[Brotherhood of Humaniti]] — human unity cult; Vlen was a runaway initiate, and they claim his estate
 - [[Church of the Chosen Ones]] — fringe Vargr sect; hold Vargr to be the Ancients' heirs
 - [[First Ducal Bank]] — holds the money set aside for Kostas' expenses on Regina
+- [[First Imperium]] — Vilani-era Imperium; Alell was settled as it died
 - [[Helix]] — honest, bureaucratic research company chartering lab space on the Event Horizon; lost the patent row and resents it
 - [[Imperium]] — the Third Imperium, dominant polity; Vlen had contacts beyond its borders
+- [[Jocell Family]] — starport branch of the Backetts; look down on their country cousins
 - [[Kaldi Research]] — private corporation running lab ships for hire across the Marches
-- [[Regina Public Order Commission]] — Regina's civil authority; holding Vlen's estate and his body
+- [[Parad Family]] — Alell criminal gang with a fearsome reputation, unrelated to the Backetts
+- [[Regina Public Order Commission]] — Regina's civil authority; holding Vlen's estate; released his body to the crew
 - [[Travellers' Aid Society]] — TAS; Vlen stayed at their hostel, their camera caught the three men
 - [[University of Regina]] — Ujinka's Department of History
 - [[Winter Shipping]] — logistics and cargo-buying company; Vlen's last call, Harlen's employer, two buildings straddling the fence, owned by Ven Yasha
@@ -122,7 +147,7 @@ Date: 2026-06-07
 
 ###### Species
 - [[Rynkatropa]] — whistling sea-slug sophonts, enslaved by the Vargr at TL1
-- [[Cadgeree]] — winged snake that drops on prey and snaps its spine
+- [[Cadgeree]] — Alell savannah winged snake; drops on prey and snaps its spine
 - [[Carthus]] — pale, boneless desert cave-dweller; Black Horizon's serum-grown specimens, hunted down aboard the Event Horizon
 - [[Droyne]] — kept by the Ancients as pets or servants; organised into oyntrips
 - [[Lambdragon]] — Alell herbivore; a stampede can flatten a tank
@@ -135,12 +160,14 @@ Date: 2026-06-07
 
 ###### Items
 - [[Black Horizon's Growth Serum]] — grew the carthus embryos instantly; offered to the crew for their silence
+- [[Rao's Map]] — moth-eaten map marking where Rao dropped Vlen in the jungle; Kostas has it, unshown
 - [[Smashed Comms]] — yielded Winter Shipping as Vlen's last call before becoming unusable
 - [[Tusal]] — illegal seaweed-derived narcotic; Vlen was full of it when he was shot
-- [[Vlen's Statuette and Data Crystals]] — Ancient winged pillar from Boughene's asteroid belt, a fragment of an anchor array; disks hold Vlen's plan to scan Boughene
+- [[Vlen's Statuette and Data Crystals]] — Ancient winged pillar from Boughene's asteroid belt, a fragment of an anchor array; disks hold Vlen's plan to scan Boughene; scanned, not hollow
 
 ###### Clues
 - [[Ancients Extinction Theories]] — competing accounts of how the Ancients vanished
+- [[Claims on Vlen's Estate]] — no will, four claimants: the Brotherhood, a widow, Yusul's million, Marisa's spaceship
 - [[Being Followed]] — apparent POC grav car at Dancado; local officers deny it was theirs
 - [[G-Band Transmissions]] — g-band dead zones cast by buried Ancient structures; found at Regina and Boughene
 - [[Investigation Status]] — running timeline and open threads
@@ -151,4 +178,5 @@ Date: 2026-06-07
 - [[The Device]] — carried by the third man; seems to have caused electrical interference
 - [[Three Men at Vlen's Room]] — TAS footage; two faces, one red-haired man who stayed off camera
 - [[Vlen Backett's Murder]] — drugged, then shot through the heart at close range
-- [[Vlen Backett's True Age]] — at least 180 years old, body of a 52-year-old, no anagathics
+- [[Vlen Backett's True Age]] — at least 180 years old, body of a 52-year-old, no anagathics; great-uncle to a 92-year-old
+- [[Vlen's Hidden Fortune]] — Vlen's lodge in the woods, location unknown; Hans is after it
