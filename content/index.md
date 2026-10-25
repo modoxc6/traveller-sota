@@ -24,6 +24,7 @@ Date: 2026-06-07
 - [[Ship Finances]] — the Event Horizon's ledger: balance, monthly costs, money owed in and out
 ##### Index
 ###### Sessions
+- [[Session 2026-10-25]] — the claims tested: the widow's certificate is genuine, the Brotherhood's won't stand, Marisa's ship is Vlen's hidden Far Trader; StClair poisons Yasul, and someone shoots at Kostas
 - [[Session 2026-10-18]] — down to Alell and home to Vaca Goya: Rao's map of where Vlen vanished, no will, and four claimants on the estate, including a widow and a Brotherhood that says he was theirs
 - [[Session 2026-10-04]] — first space combat: Delta 2 destroyed by missiles, the Event Horizon left at half Hull with a damaged jump drive; passengers delivered to Alell, Cr300,000 collected
 - [[Session 2026-09-27]] — carthus hunt finished (Kostas down again), Kay explains the growth serum, and a fake Alell patrol ship opens fire on arrival
@@ -44,22 +45,23 @@ Date: 2026-06-07
 - [[Atticus Brown]] — the Event Horizon's second gunner; cheap, wanted off-planet
 - [[Aylin Boro]] — retired admiral, hates Cassius, has Kostas mistaken for someone else (contact)
 - [[Aail]] — dancing Brotherhood of Humaniti envoy; claims Vlen signed everything over as Initiate Zu
-- [[Orisa Backett]] — Southern-accented widow nobody knew Vlen had; wedding certificate in hand
-- [[Bard Jocell]] — Marisa's son; fawns over off-world nobles and tourists
+- [[Arisa Backett]] — Southern-accented widow nobody knew Vlen had; married on Rhylanor, certificate genuine, inherits if there's no will
+- [[Bard Jocell]] — Marisa's son; fawns over off-world nobles; Hans says he took a rifle shot at Kostas
 - [[Countess Parasii]] — ruler of Uakye; no connection to the investigation
 - [[Darrian Jak]] — short red-haired Tusal dealer in POC custody; the crew think he's a fall guy for being red-haired
 - [[Detective Odoy]] — met the party at the Flotsam; says Ven Yasha killed Vlen and the spy story is a cover
 - [[Gunner Gunnerson]] — the Event Horizon’s one-eyed ex-Marine gunner; carried both firefights aboard the base
 - [[Gunter Backett]] — Tomas's 15-year-old son; always wants Kostas's off-world stories
 - [[Five High Passengers]] — the drunk, the recluse, the noble, the friendly one (now crew) and the blob; Cr60,000 each at Alell
+- [[Gand Holsiss]] — captain of the Alahir, Imperial Intelligence; the Admiral's rival; questioned Vlen at Alell ten years ago
 - [[Exceedingly Discreet]] — Llellewyoly that ran Winter Shipping's records and wanted Harlen dead; **vanished** from the Credo office 196-1105
-- [[Hans Backett]] — hunter and trapper, Tomas's brother, Backett co-head; talks up Vlen's hidden fortune, looking for an angle
+- [[Hans Backett]] — hunter and trapper, Tomas's brother, Backett co-head; tried to buy the will from Ozy with furs
 - [[Henna Backett]] — Kostas's mother; dotes on the Admiral, "so good to see you again"
 - [[Harlen]] — red-haired fixer who ran Winter Shipping for Ven Yasha; blew the base by closing his eyes, **fate unknown**
 - [[Marid]] — receptionist at Winter Shipping's Star Town office
-- [[Marisa Jocell]] — insufferable socialite leading the Jocell delegation; says Vlen owes her his spaceship
+- [[Marisa Jocell]] — starport clerk and socialite; hid Vlen's Far Trader ten years ago by falsifying records, now claims it
 - [[Merrick Backett]] — Kostas's father; "you look a mess, boy"
-- [[Morgan]] — Yusul Parad's unarmed muscle
+- [[Morgan]] — Yasul Parad's unarmed muscle
 - [[Nairal Backett]] — Kostas's 92-year-old great-uncle; Vlen was *his* great-uncle; knows of Vlen's lodge
 - [[Olso]] — the crew's Winter Shipping contact; collecting their Yori cargo
 - [[Pallod Norrim]] — Chief Inspector; named Jak as Vlen's killer, now refuses the crew's calls
@@ -74,7 +76,7 @@ Date: 2026-06-07
 - [[Tomas Backett]] — merchant, Backett head in Vaca Goya, Hans's brother; never liked Vlen; Ozy is his "neutral third party"
 - [[Vlen Backett]] — "Uncle Vlen", restless family rogue with an improbable address book (ally, **murdered**)
 - [[Ven Yasha]] — unseen crime lord wanted around Regina; owns Winter Shipping, ordered Ujinka's death (rival)
-- [[Yusul Parad]] — Parad gang boss; says Vlen owes him Cr1,000,000 and traded in ancient artefacts
+- [[Yasul Parad]] — Parad gang boss; says Vlen owes him Cr1,000,000 and traded in ancient artefacts
 - [[Zed Cole]] — the friendly ex-passenger, now crew; Experienced Combatant with secret allies
 - [[Zena Antonia]] — receptionist at the Regina Down TAS Hostel; flirting with Kostas
 
@@ -107,6 +109,7 @@ Date: 2026-06-07
 - [[The Flotsam]] — bar; venue for Odoy's 195-1105 meeting
 - [[Uakye]] — tidally locked; Countess Parasii resents Efate
 - [[Vaca Goya]] — the Backetts' hilltop farming village, pop. ~1,000, ringed by mist-sprayer poles
+- [[Vlen's House]] — Vlen's dusty house on the outskirts of Vaca Goya; searched twice, no will
 - [[Whanga]] — second hop on the route to Alell; refuelled at the gas giant, nobody went down
 - [[Winter Shipping Station]] — three containers hidden in a Lagrangian container yard, not a station at all; **destroyed** 196-1105
 - [[Wochiers]] — four-bar atmosphere, crystal growing, bring a plant
@@ -114,18 +117,19 @@ Date: 2026-06-07
 - [[Yres]] — balkanised undersea world, radioactive atmosphere
 
 ###### Ships
-- [[Alahir]] — non-standard Scout Service-registered ship that carried Imperial Intelligence to Regina; has departed
+- [[Alahir]] — non-standard Scout Service ship that carried Imperial Intelligence to Regina, captained by Gand Holsiss; has departed
 - [[Delta 2]] — Far Trader posing as an Alell patrol ship; fired missiles, destroyed by the Event Horizon
 - [[Event Horizon]] — the party's Lab Ship; in orbit at Alell, Zed Cole now crew, Hull 47 of 124, jump drive damaged, no missiles, one jump of fuel
 - [[Implacable]] — Pinnace carried by the Event Horizon; one fixed beam laser
 - [[Ship Finances]] — the Event Horizon's ledger: balance, monthly costs, money owed in and out
+- [[Star Hunter]] — Vlen's Far Trader, hidden at Alell starport ten years ago, now missing; Marisa claims it
 
 ###### Factions
 - [[213th Fleet]] — Imperial fleet, HQ at Efate, forward base at Pixie
 - [[40th Squadron]] — organised Vargr power bloc in Gvurrdon, once bankrolled by the Zhodani
 - [[Backett Family]] — Vlen and Kostas's family, of Vaca Goya on Alell
 - [[Black Horizon]] — secretive research company chartering lab space on the Event Horizon; won the patent row, lost its specimens into the shafts, kept the serum that grew them
-- [[Brotherhood of Humaniti]] — human unity cult; Vlen was a runaway initiate, and they claim his estate
+- [[Brotherhood of Humaniti]] — human unity cult worshipping the Ur-Human; Vlen fled them with the Sceptre of Ur
 - [[Church of the Chosen Ones]] — fringe Vargr sect; hold Vargr to be the Ancients' heirs
 - [[First Ducal Bank]] — holds the money set aside for Kostas' expenses on Regina
 - [[First Imperium]] — Vilani-era Imperium; Alell was settled as it died
@@ -161,19 +165,21 @@ Date: 2026-06-07
 ###### Items
 - [[Black Horizon's Growth Serum]] — grew the carthus embryos instantly; offered to the crew for their silence
 - [[Rao's Map]] — moth-eaten map marking where Rao dropped Vlen in the jungle; Kostas has it, unshown
+- [[Sceptre of Ur]] — the Brotherhood's cherished relic, stolen by Vlen when he fled
 - [[Smashed Comms]] — yielded Winter Shipping as Vlen's last call before becoming unusable
 - [[Tusal]] — illegal seaweed-derived narcotic; Vlen was full of it when he was shot
 - [[Vlen's Statuette and Data Crystals]] — Ancient winged pillar from Boughene's asteroid belt, a fragment of an anchor array; disks hold Vlen's plan to scan Boughene; scanned, not hollow
 
 ###### Clues
 - [[Ancients Extinction Theories]] — competing accounts of how the Ancients vanished
-- [[Claims on Vlen's Estate]] — no will, four claimants: the Brotherhood, a widow, Yusul's million, Marisa's spaceship
+- [[Claims on Vlen's Estate]] — no will; the widow's claim holds, the Brotherhood's and Marisa's don't, Yasul's is a shakedown
 - [[Being Followed]] — apparent POC grav car at Dancado; local officers deny it was theirs
 - [[G-Band Transmissions]] — g-band dead zones cast by buried Ancient structures; found at Regina and Boughene
 - [[Investigation Status]] — running timeline and open threads
 - [[Ujinka's Research]] — her three recovered notes: the dead-zone method, the Boughene statue, and the Ancients as one entity
 - [[Irregularities in Vlen Backett's Affairs]] — the Commission won't put in writing what's wrong with the estate
 - [[Meeting at the Flotsam]] — happened; Odoy's account contradicts the POC's case at every point
+- [[Shot at in Vaca Goya]] — rifle shot at Kostas the night before the funeral; Hans names Bard
 - [[Solomani Hypothesis]] — the Ancients seeded Humaniti from Terra; the Brotherhood's founding fact
 - [[The Device]] — carried by the third man; seems to have caused electrical interference
 - [[Three Men at Vlen's Room]] — TAS footage; two faces, one red-haired man who stayed off camera

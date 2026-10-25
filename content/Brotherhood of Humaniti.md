@@ -20,3 +20,6 @@ Nothing connects the Brotherhood to either killing. Noted as a candidate, not a 
 	- The GM's reading: an esoteric group who believe all humanity must unite as one, and who **love every human "in a distinctly uncomfortable way"**: "treat every human like you want nothing more than to keep them safe forever, like a collection of butterflies"
 	- **This is the first direct link between Vlen and the Brotherhood.** The note above said nothing connected them to either killing. That's still true of the killings, but Vlen ran from them *(the gap between "fled" and "killed" is not bridged by anything said at the table)*
 	- See [[Claims on Vlen's Estate]]
+- [[Session 2026-10-25]]: **Vlen stole their cherished relic, the [[Sceptre of Ur]], when he fled.** They **worship the Ur-Human**. The oath he signed carries his signature and identity imprint
+	- **Under Regina law their claim wouldn't hold up in court**, per Ozy's Advocate roll: a claim to *all* of someone's goods has no limit. They may have a bona fide claim, but not to everything
+	- [[Graxius StClair|StClair]] has invited them aboard the [[Event Horizon]] for an extended stay after the funeral, and has a pamphlet. He wants to visit their headquarters

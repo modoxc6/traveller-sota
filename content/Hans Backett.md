@@ -10,3 +10,5 @@ Often talked to [[Kostas Backett|Kostas]]'s parents about [[Vlen Backett|Vlen]] 
 ###### Notes
 -
 - [[Session 2026-10-18]]: **brother of [[Tomas Backett]]**, not a cousin as the handout had it. Looks a bit like a hunter. At the homecoming, and mortified when [[Aail]] of the Brotherhood hugged him
+- [[Session 2026-10-25]]: **took Ozy aside and offered five tonnes of rare furs and animal products, about Cr50,000, to slip him the will** and say nothing. A one-and-done offer. When Ozy refused: **"You need to step carefully, friend. The jungles around Alell are quite dangerous"**
+	- Shown the shell casing from the shot at Kostas: **a fancy, illegal, high-quality hunting rifle.** He named [[Bard Jocell]], "that prick mummy's boy". See [[Shot at in Vaca Goya]]

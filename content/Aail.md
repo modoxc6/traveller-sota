@@ -19,3 +19,9 @@ Hugs everyone, warmly and at length ("Blessed be the child", "we must protect yo
 
 ###### Notes
 -
+- [[Session 2026-10-25]]: the Admiral met her hug by kissing her knuckles. She invited him to join, by signing away all his possessions; he's "poor as a church mouse"
+	- **They want all of Vlen's earthly possessions loaded onto their shuttle**
+	- **Initiate Zu signed everything over, then stole their prized relic, the [[Sceptre of Ur]], and vanished.** They worship **the Ur-Human**
+	- **Her document: a copy of Vlen's oath of membership, with his signature (Kostas recognises it) and an identity imprint**, dated "long before Rylanor"
+	- She doesn't think anyone else's claim matters, since theirs comes first
+	- Agreed to StClair's invitation to stay aboard the [[Event Horizon]], **after the funeral, once they've got their stuff**

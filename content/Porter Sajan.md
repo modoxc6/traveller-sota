@@ -15,3 +15,6 @@ He takes his responsibilities seriously, so Kostas's parents advise **playing it
 	- Expected the crew to bring **the body and Vlen's will**. He'd been told Vlen would have a copy with him. Kostas has none. "There must be another copy somewhere"
 	- **Tonight the homecoming, tomorrow the burial and the reading of the will.** He took charge of the body
 	- **Asked Kostas and his friends to act as intermediaries and resolve the claims before tomorrow** ([[Claims on Vlen's Estate]]), without waiting for a yes. He is busy with the [[Brotherhood of Humaniti]]'s demand for its own "DNA" ceremony for its initiate, which he calls preposterous. "I trust you and believe in you, Kostas"
+- [[Session 2026-10-25]]: told the claims have mostly fallen away: Marisa and the Brotherhood have nothing, the wedding is legit, Yasul is a shakedown. He was shocked about the wedding. **Without a will, they're back at square one**
+	- **He had already searched [[Vlen's House]]** and found nothing; gave the crew the key to stay the night. The lodge can be searched after the funeral
+	- Told about the shot at Kostas; suggested showing the casing to [[Hans Backett]]

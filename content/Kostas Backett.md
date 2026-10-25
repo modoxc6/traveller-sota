@@ -12,8 +12,8 @@ STR 7 · DEX 10 · END 7 · INT 9 (+1 from mustering out) · EDU 8 · SOC 2
 
 - **Has [[Rao's Map]]**, bought from the shuttle pilot [[Rao]] for Cr100, marking where she once dropped Vlen in the jungle. He thinks it's Vlen's lodge, and has shown it to no one. He has Rao's number
 - Told [[Porter Sajan]] he had Vlen's will, then admitted he didn't. **Sajan has made him the intermediary for every claim on the estate** ([[Claims on Vlen's Estate]]), without asking
-- **His parents are here and well.** His mother [[Henna Backett]] dotes on the Admiral; his father [[Merrick Backett]] thinks he looks a mess. [[Nairal Backett]] cried to see him. [[Yusul Parad]] says he trusts Kostas "to do the right thing" about the Cr1,000,000. [[Orisa Backett]] calls him her nephew. [[Marisa Jocell]] remembers him as a snotty little boy
-- Took the Admiral everywhere, arm in arm, to show off. Promised to let Yusul know first if any artefacts turn up
+- **His parents are here and well.** His mother [[Henna Backett]] dotes on the Admiral; his father [[Merrick Backett]] thinks he looks a mess. [[Nairal Backett]] cried to see him. [[Yasul Parad]] says he trusts Kostas "to do the right thing" about the Cr1,000,000. [[Arisa Backett]] calls him her nephew. [[Marisa Jocell]] remembers him as a snotty little boy
+- Took the Admiral everywhere, arm in arm, to show off. Promised to let Yasul know first if any artefacts turn up
 
 ###### Previous condition — in orbit over [[Alell]], c. 219-1105
 **Fit, and conscious at the end of a fight for once.** In [[Session 2026-10-04]] he moved from the laser turret to **sensors**, since he was the only one aboard with Electronics (sensors) (1). He **detected Delta 2's first launch** (rolled 8) and its **second launch** (Electronic Warfare, Effect 0). His other EW attempts failed (6, then a fail), and so did a Sensor Lock in round 5. No missiles were stopped. He launched no missiles himself, but the Admiral had told him to "stop being cheap" about firing them.
@@ -105,7 +105,7 @@ Crew of the [[Event Horizon]], owned by [[Graxius StClair]] — Kostas' Ship Sha
 - **Family on [[Alell]]** (Tel's pre-session handout; Kostas knows them mostly through what his parents have told him):
 	- [[Backett Family]] of [[Vaca Goya]] — [[Tomas Backett]] (merchant, disliked Vlen), [[Hans Backett]] (hunter, looking for an angle on Vlen's fortune), [[Gunter Backett]] (15, always wants Kostas's off-world stories), [[Nairal Backett]] (92, great-uncle, sharp)
 	- [[Jocell Family]] — [[Marisa Jocell]] and her son [[Bard Jocell]], the starport branch who look down on the Backetts
-	- Also expected: [[Porter Sajan]], Vaca Goya's village porter, and possibly [[Yusul Parad]], whom Vlen may have owed money
+	- Also expected: [[Porter Sajan]], Vaca Goya's village porter, and possibly [[Yasul Parad]], whom Vlen may have owed money
 
 ###### Character Creation
 Rolled: 7, 7, 8, 2, 10, 9 → DEX 10, INT 9, EDU 8, END 7, STR 7, SOC 2

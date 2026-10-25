@@ -4,7 +4,7 @@
 Running state of the investigation into [[Vlen Backett's Murder]], from the GM's board.
 
 ###### Timeline
-**Current date: shortly after c. 219-1105, midday, at Vlen's homecoming in [[Vaca Goya]] on [[Alell]]. Burial and will reading tomorrow. [[Porter Sajan]] has asked Kostas to resolve the [[Claims on Vlen's Estate]] first. The [[Event Horizon]] is still in orbit, badly damaged.**
+**Current date: shortly after c. 219-1105, night, in [[Vlen's House]] in [[Vaca Goya]] on [[Alell]]. Burial and will reading tomorrow. The [[Claims on Vlen's Estate]] are tested: only the widow's holds. Someone shot at Kostas on the way here. The [[Event Horizon]] is still in orbit, badly damaged.**
 
 | Date | Event |
 |---|---|
@@ -28,7 +28,8 @@ Running state of the investigation into [[Vlen Backett's Murder]], from the GM's
 | **c. 212–218** | Third jump: Black Horizon's [[Carthus|carthus]] specimens escape into the shafts and are hunted down. Per [[Khei]], they were embryos grown by [[Black Horizon's Growth Serum]] |
 | **c. 219-1105** | **Arrival at [[Alell]]**. [[Delta 2]] hails as an Alell patrol, goes dark and fires missiles |
 | **c. 219-1105** | **[[Delta 2]] destroyed** by the Event Horizon's missiles. The Event Horizon left at Hull 47 of 124 with a damaged jump drive. Passengers landed by the [[Implacable]] |
-| **shortly after** | **Down to Alell.** Customs scanner glitches on Vlen's cryotube. [[Rao]] flies the party to [[Vaca Goya]] and sells [[Rao's Map]]. At the homecoming: no will; the [[Brotherhood of Humaniti]], [[Orisa Backett]], [[Yusul Parad]] and [[Marisa Jocell]] all claim the estate. [[Porter Sajan]] hands the claims to Kostas |
+| **shortly after** | **Down to Alell.** Customs scanner glitches on Vlen's cryotube. [[Rao]] flies the party to [[Vaca Goya]] and sells [[Rao's Map]]. At the homecoming: no will; the [[Brotherhood of Humaniti]], [[Arisa Backett]], [[Yasul Parad]] and [[Marisa Jocell]] all claim the estate. [[Porter Sajan]] hands the claims to Kostas |
+| **same day** | Claims tested at the homecoming. [[Arisa Backett]]'s certificate genuine; the [[Brotherhood of Humaniti]] want the [[Sceptre of Ur]] back; Marisa's ship is the [[Star Hunter]], which [[Gand Holsiss]] came looking for ten years ago. StClair poisons [[Yasul Parad]]. That night, [[Shot at in Vaca Goya|a rifle shot at Kostas]]; no will in [[Vlen's House]] |
 
 The dates put the party's departure from [[Yori]] five days *before* the death notice was sent, but the party's understanding is that they left **because of** the notice. Most likely a slip in the GM's dates rather than something in the fiction — treated as such unless it comes up in play.
 
@@ -94,10 +95,10 @@ The tally now includes a dead professor on the Duke's private land at [[Dancado]
 ###### Loose threads not on the party's list
 - **[[Claims on Vlen's Estate]]** — four claimants and no will, to be sorted before tomorrow's will reading
 - **Vlen fled the [[Brotherhood of Humaniti]]**, signing everything over on joining. They found his homeworld only now, and want a "DNA" ceremony
-- **Yusul says Vlen traded in ancient artefacts**, and knows who he was involved with
+- **Yasul says Vlen traded in ancient artefacts**, and knows who he was involved with
 - **The customs scanner glitched on Vlen's cryotube.** Unexplained
 - **[[Vlen's Hidden Fortune]]** — [[Hans Backett]] says Vlen hid a fortune in his old lodge on [[Alell]], and is thought to be looking for an angle
-- **Vlen's debt to [[Yusul Parad]]** — borrowed about ten years ago from the [[Parad Family]] gang, per Kostas's parents. Repaid or not is unknown
+- **Vlen's debt to [[Yasul Parad]]** — borrowed about ten years ago from the [[Parad Family]] gang, per Kostas's parents. Repaid or not is unknown
 - **The burial** — the [[Backett Family]] are gathering to bury Vlen, and the crew have brought his body to [[Alell]]
 - **What was in the tunnel** between the two Winter Shipping buildings — the newer pipe with vents at equal intervals, and the closed Star Town ramp
 - **Was [[Exceedingly Discreet]] playing the crew** into removing [[Harlen]] for it, or into a fight it expected them to lose? They won, and then lost it the company
@@ -117,4 +118,5 @@ The tally now includes a dead professor on the Duke's private land at [[Dancado]
 - **Transit, Session 2026-09-20:** nothing touched the investigation. Two jumps of ship trouble — the research row, the passenger-blob, the carthus breach — and the crew are days out from Alell. Vlen's family, his burial and the Cr300,000 are the next real moves
 - **Arrival, [[Session 2026-09-27]]:** still nothing on the investigation itself. The carthus hunt ended, and the ship came out of jump at Alell into a fight with [[Delta 2]], which claims to be an Alell patrol ship when Alell has none. Whether anyone at Alell was waiting for *this* ship — for Vlen's next of kin, or for Black Horizon's cargo — is an open question, not a conclusion
 - **Alell, [[Session 2026-10-04]]:** the fight ended with [[Delta 2]] destroyed. Per the GM it was a Far Trader (missile rack, beam laser); the table read it as pirates, and the GM framed it as going after a lab ship it thought was easy pickings. Nobody was identified, so whether it was waiting for *this* ship stays open. Chapter 2 is mostly NPCs, **some of them [[Kostas Backett|Kostas]]'s family**, presumably (an inference) where Vlen's family, his burial and the investigation's Alell end come in
-- **Alell, [[Session 2026-10-18]]:** the investigation came to the crew. [[Nairal Backett]] independently supports [[Vlen Backett's True Age]]. [[Yusul Parad]] says Vlen traded in **ancient artefacts**. The [[Brotherhood of Humaniti]] claim him as a runaway initiate. And Vlen's **lodge in the woods**, which off-world visitors used, may be marked on [[Rao's Map]]. The cryotube glitched the customs scanner. See [[Claims on Vlen's Estate]]
+- **Alell, [[Session 2026-10-18]]:** the investigation came to the crew. [[Nairal Backett]] independently supports [[Vlen Backett's True Age]]. [[Yasul Parad]] says Vlen traded in **ancient artefacts**. The [[Brotherhood of Humaniti]] claim him as a runaway initiate. And Vlen's **lodge in the woods**, which off-world visitors used, may be marked on [[Rao's Map]]. The cryotube glitched the customs scanner. See [[Claims on Vlen's Estate]]
+- **Alell, [[Session 2026-10-25]]:** the claims were tested and mostly fell away; the widow's certificate is genuine. The investigation threads that came out of it: **Vlen told Arisa he was on [[Rhylanor]] for "something to do with those ancient types"**; he **stole the [[Sceptre of Ur]]** from the Brotherhood; and **ten years ago he hid his Far Trader, the [[Star Hunter]], at the Alell starport because he was being followed, and [[Gand Holsiss]] of Imperial Intelligence, captain of the [[Alahir]] and the Admiral's rival, turned up hours later to question him.** That's the same officer who was on Regina when Vlen died. Then someone shot at Kostas: [[Shot at in Vaca Goya]]

@@ -68,7 +68,7 @@ Ahead of the next session, Tel gave Kostas's background on the people likely to 
 - [[Backett Family]] — Vlen's closest living kin on Alell, from [[Vaca Goya]]: [[Tomas Backett]], [[Hans Backett]], [[Gunter Backett]], [[Nairal Backett]]
 - [[Jocell Family]] — the Backett branch that moved to the starport: [[Marisa Jocell]] and her son [[Bard Jocell]]
 - [[Porter Sajan]] — Vaca Goya's village porter, one of its most important dignitaries
-- [[Parad Family]] — unrelated local criminal gang under [[Yusul Parad]], who may have lent Vlen money
+- [[Parad Family]] — unrelated local criminal gang under [[Yasul Parad]], who may have lent Vlen money
 
 ###### Notes
 - **The [[Event Horizon]] is bound here**, departed [[Regina]] 196-1105, three jumps via [[Forboldn]]. Five high passengers paying Cr60,000 each on arrival. ~~Vlen's body was **not** brought along~~ — corrected: **Vlen's body was transferred to the ship and came with them**

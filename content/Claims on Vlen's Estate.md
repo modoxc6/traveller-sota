@@ -15,12 +15,12 @@ See the [Alell Family Tree](https://modoxc6.github.io/personal/alell-family-tree
 | Claimant | Claim | Evidence offered |
 |---|---|---|
 | [[Brotherhood of Humaniti]] ([[Aail]]) | Vlen, as **Initiate Zu**, signed over **all worldly goods** on joining, then fled their monastery | Paperwork of the signing-over |
-| [[Orisa Backett]] | She is **Vlen's wife** | A wedding certificate |
-| [[Yusul Parad]] | Vlen owes him **Cr1,000,000** (borrowed about ten years ago, per Kostas's parents). He'd take **ancient artefacts** in lieu | None shown yet. The Admiral wants receipts |
+| [[Arisa Backett]] | She is **Vlen's wife** | A wedding certificate |
+| [[Yasul Parad]] | Vlen owes him **Cr1,000,000** (borrowed about ten years ago, per Kostas's parents). He'd take **ancient artefacts** in lieu | None shown yet. The Admiral wants receipts |
 | [[Marisa Jocell]] | **"He owes me his spaceship"** | None shown yet |
 | The [[Backett Family]] | Next of kin. Kostas is the registered one | Vlen's instructions on file with the [[Regina Public Order Commission\|POC]] |
 
-The Admiral's argument to Yusul: Vlen's debts pass to the head of the family, or to the wife nobody knew about.
+The Admiral's argument to Yasul: Vlen's debts pass to the head of the family, or to the wife nobody knew about.
 
 ###### Worth checking
 - The village hall has **terminals**. Ozy wants network access to test each claim
@@ -31,3 +31,10 @@ The Admiral's argument to Yusul: Vlen's debts pass to the head of the family, or
 
 ###### Notes
 -
+- [[Session 2026-10-25]]: **the crew worked through every claim.** Summary:
+	- **[[Arisa Backett]]: genuine.** Ozy checked the certificate, Effect 6. They married on [[Rhylanor]] the day they met. **The GM: with no will, the widow gets everything.** Whether she's the woman named is unverified
+	- **[[Brotherhood of Humaniti]]: wouldn't hold up in court** under Regina law, not to everything. The document is Vlen's oath of membership with signature and identity imprint. They also want the [[Sceptre of Ur]], which he stole
+	- **[[Marisa Jocell]]: the ship is the [[Star Hunter]]**, a Far Trader. Her claim is Vlen's verbal promise for hiding it ten years ago, which she did by falsifying starport records. The ship is missing. She has the only original documentation
+	- **[[Yasul Parad]]: no proof shown.** He'll take anything worth a million, and threatens killings. Kostas has promised he'll be paid once the dust settles
+	- **[[Hans Backett]]** offered Ozy Cr50,000 in furs for the will
+	- **No will in [[Vlen's House]].** Reported to [[Porter Sajan]]. The crew's plan if none turns up: it goes to Arisa, and they offer her their protection for a cut

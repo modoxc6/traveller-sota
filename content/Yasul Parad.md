@@ -14,3 +14,10 @@ Head of the [[Parad Family]], a local criminal gang on [[Alell]] with a fearsome
 	- **"I know what your uncle was up to. I know who he was involved with. He was trading in ancient artefacts."** If any of those fall into his possession, "we'll maybe see about getting this debt cleared." Kostas promised to let him know first
 	- Twice called the Admiral "lippy", with a hint about accidents
 	- See [[Claims on Vlen's Estate]]
+- [[Session 2026-10-25]]: to StClair: **"I lent it to him and he ain't paid it back."** It comes from the estate. **"If people start pissing me about, I'm going to fucking start killing people"**
+	- **StClair spiked his drink** with "the Admiral's special brew". He got sick, and **StClair locked him and [[Morgan]] in the toilets** by hacking the door
+	- To Ozy: **he'll take anything worth a million.** No interest in the Ancients as such
+	- A drunk local called him a criminal and a murderer, unwelcome in the village. Morgan had a word
+	- **No proof of the loan shown**: a round number, no interest mentioned. Kostas promised, through the toilet door, that he'll get his money once the dust settles
+	- [[Merrick Backett]]: going to Yasul for money was a mistake. "He's not someone you mess around with"
+	- *The loan dates to about ten years ago, the same time [[Marisa Jocell]] hid the [[Star Hunter]] for Vlen. Connection drawn here, not at the table*

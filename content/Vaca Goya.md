@@ -34,3 +34,4 @@ See the [Alell Family Tree](https://modoxc6.github.io/personal/alell-family-tree
 	- The **village hall** has terminals. [[Porter Sajan]] is magistrate and spiritual leader
 	- Kostas's old school and old house are here. It looks smaller than he remembers
 	- The GM said the map is AI-generated; the book has none
+- [[Session 2026-10-25]]: [[Vlen's House]] is on the outskirts. That night someone fired a hunting rifle at Kostas on the way there: [[Shot at in Vaca Goya]]

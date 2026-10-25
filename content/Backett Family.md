@@ -20,4 +20,4 @@ See the [Alell Family Tree](https://modoxc6.github.io/personal/alell-family-tree
 	- **Kostas's parents** were at the homecoming. His mother [[Henna Backett]] fawned over the Admiral ("so good to see you **again**"). His father is [[Merrick Backett]]: "You look a mess, boy."
 	- Nobody was sad about Vlen. "We're all waiting for that will reading"
 	- **No family security**: "we're not well-to-do"
-	- Two newcomers claim a place in the family: [[Orisa Backett]] says she was Vlen's wife, and calls Kostas her nephew. See [[Claims on Vlen's Estate]]
+	- Two newcomers claim a place in the family: [[Arisa Backett]] says she was Vlen's wife, and calls Kostas her nephew. See [[Claims on Vlen's Estate]]

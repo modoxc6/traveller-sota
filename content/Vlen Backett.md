@@ -51,16 +51,16 @@ All unverified. It would, though, account for a man with no visible job, constan
 
 Unresolved: whether courier work and the funding of [[Ujinka's Research]] are the same thread or two separate lives.
 
-###### Corroboration from inside Winter Shipping â€” 196-1105
-[[Exceedingly Discreet]] independently described Vlen as **a messenger for [[Ven Yasha]]** â€” "he must have brought bad news, hence his demise". That is a second source for the courier theory above, and the first to give a motive for the killing, however offhand.
+###### Corroboration from inside Winter Shipping — 196-1105
+[[Exceedingly Discreet]] independently described Vlen as **a messenger for [[Ven Yasha]]** — "he must have brought bad news, hence his demise". That is a second source for the courier theory above, and the first to give a motive for the killing, however offhand.
 
-It also says **[[Harlen]] holds [[Vlen's Statuette and Data Crystals]]** â€” property of Vlen's that never reached the [[Regina Public Order Commission|POC]]-held estate.
+It also says **[[Harlen]] holds [[Vlen's Statuette and Data Crystals]]** — property of Vlen's that never reached the [[Regina Public Order Commission|POC]]-held estate.
 
 ###### Family and money on Alell — Tel's pre-session handout
 What [[Kostas Backett|Kostas]]'s parents told him, second-hand:
 - His closest living kin on [[Alell]] are the [[Backett Family]] of [[Vaca Goya]]. [[Tomas Backett]] **never liked him** and is probably coming to see "the old charlatan" properly buried
 - [[Hans Backett]] often talked about Vlen having **a fortune hidden in his old lodge**, and Kostas's parents are pretty sure Hans is looking for an angle. See [[Vlen's Hidden Fortune]]
-- About ten years ago Vlen **borrowed money from [[Yusul Parad]]**, head of the [[Parad Family]], a local criminal gang. Kostas's parents are "pretty sure", not certain
+- About ten years ago Vlen **borrowed money from [[Yasul Parad]]**, head of the [[Parad Family]], a local criminal gang. Kostas's parents are "pretty sure", not certain
 
 The family expect a burial, and **the crew have the body**: it was transferred to the [[Event Horizon]] on [[Regina]] and is with them at Alell.
 
@@ -69,9 +69,15 @@ The family expect a burial, and **the crew have the body**: it was transferred t
 - [[Session 2026-10-18]]: **homecoming in [[Vaca Goya]]**, burial and will reading tomorrow. Nobody there seemed sad
 	- **No will.** [[Porter Sajan]] had been told Vlen would have a copy on him. It wasn't among the effects collected on Regina. See [[Claims on Vlen's Estate]]
 	- **Brotherhood initiate.** Per [[Aail]] of the [[Brotherhood of Humaniti]], Vlen was **"the initiate Zu"**, a member some years ago. He **fled their monastery in the dead of night** and never returned, having **signed over all worldly goods** on joining. They now want a "DNA" ceremony for him
-	- **A wife?** [[Orisa Backett]] claims to be his widow and has a wedding certificate. Nobody in the family knew of her
-	- **Debts:** [[Yusul Parad]] says Vlen owes him **Cr1,000,000**. [[Marisa Jocell]] says he owes her **his spaceship**
-	- **Artefacts.** Yusul: "I know what your uncle was up to. I know who he was involved with. **He was trading in ancient artefacts.**" Unverified, but it fits the [[Vlen's Statuette and Data Crystals|statuette]] and [[Ujinka's Research]]
+	- **A wife?** [[Arisa Backett]] claims to be his widow and has a wedding certificate. Nobody in the family knew of her
+	- **Debts:** [[Yasul Parad]] says Vlen owes him **Cr1,000,000**. [[Marisa Jocell]] says he owes her **his spaceship**
+	- **Artefacts.** Yasul: "I know what your uncle was up to. I know who he was involved with. **He was trading in ancient artefacts.**" Unverified, but it fits the [[Vlen's Statuette and Data Crystals|statuette]] and [[Ujinka's Research]]
 	- **The lodge.** Per [[Nairal Backett]], Vlen had **a lodge out in the woods**, location unknown to the family, and sometimes brought off-world people back to it. Per [[Rao]], he once chartered her to fly him into the middle of nowhere and collected him a week later: [[Rao's Map]]
 	- **Age.** Nairal, 92, was introduced to Vlen as a child as his **great-uncle**. See [[Vlen Backett's True Age]]
 	- **The cryotube glitched the starport's customs scanner** before passing on a second run. Unexplained
+- [[Session 2026-10-25]]:
+	- **Married [[Arisa Backett]] on [[Rhylanor]]** the day they met, four days before the campaign began, and left the next day. The certificate is genuine. He told her he was there for "something to do with those ancient types"
+	- **Stole the [[Sceptre of Ur]]** from the [[Brotherhood of Humaniti]] when he fled them
+	- **Owned a Far Trader, the [[Star Hunter]].** Ten years ago he told [[Marisa Jocell]] he was being followed and had her hide it; hours later [[Gand Holsiss]] arrived and questioned him. The ship has since gone missing
+	- [[Merrick Backett]]: "Never told any of us what he was up to"
+	- [[Vlen's House]] in Vaca Goya holds no will
