@@ -74,8 +74,10 @@ $embeds = Get-ChildItem $dest -Filter *.md | ForEach-Object {
 } | Where-Object { $_ -match '\.\w{2,4}$' } | Sort-Object -Unique
 
 foreach ($embed in $embeds) {
-  if (Test-Path -LiteralPath (Join-Path $attach $embed)) { continue }
-  $found = Join-Path $shared $embed
+  # Embeds may carry a folder prefix (![[Attachments/x.webp]]); both folders are flat.
+  $name = Split-Path $embed -Leaf
+  if (Test-Path -LiteralPath (Join-Path $attach $name)) { continue }
+  $found = Join-Path $shared $name
   if (Test-Path -LiteralPath $found) {
     Copy-Item -LiteralPath $found -Destination $attach
   } else {
